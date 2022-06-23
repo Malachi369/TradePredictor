@@ -1,0 +1,4112 @@
+Buy 50.0 amount of SPY at $406.165
+Buy 75.0 amount of SPY at $406.265
+Buy 112.5 amount of SPY at $406.07000000000005
+Buy 168.75 amount of SPY at $406.12
+Buy 253.125 amount of SPY at $406.0
+Buy 379.6875 amount of SPY at $406.105
+Buy 569.53125 amount of SPY at $406.02
+Buy 854.296875 amount of SPY at $406.1
+Buy 1281.4453125 amount of SPY at $406.03999999999996
+Buy 1922.16796875 amount of SPY at $406.09000000000003
+Buy 2883.251953125 amount of SPY at $406.06
+Buy 4324.8779296875 amount of SPY at $406.0
+Buy 6487.31689453125 amount of SPY at $406.03999999999996
+Sell 9730.975341796875 amount of SPY at $406.095
+799.6035461425691
+Buy 4865.4876708984375 amount of SPY at $406.095
+Sell 7298.231506347656 amount of SPY at $406.055
+907.4760589595215
+Buy 3649.115753173828 amount of SPY at $406.055
+Sell 5473.673629760742 amount of SPY at $406.1
+1207.7276287075256
+Buy 2736.836814880371 amount of SPY at $406.1
+Sell 4105.255222320557 amount of SPY at $406.19
+1727.326383590275
+Buy 2052.6276111602783 amount of SPY at $406.19
+Sell 3078.9414167404175 amount of SPY at $406.28
+2264.2304885382105
+Sell 1539.4707083702087 amount of SPY at $406.29999999999995
+2563.4719551795542
+Sell 769.7353541851044 amount of SPY at $406.28999999999996
+2705.395334958382
+Sell 384.8676770925522 amount of SPY at $406.065
+2689.761797501985
+Buy 192.4338385462761 amount of SPY at $406.065
+Buy 288.65075781941414 amount of SPY at $405.96500000000003
+Buy 432.9761367291212 amount of SPY at $406.02
+Buy 649.4642050936818 amount of SPY at $405.755
+Buy 974.1963076405227 amount of SPY at $405.745
+Buy 1461.294461460784 amount of SPY at $405.635
+Buy 2191.941692191176 amount of SPY at $405.53499999999997
+Buy 3287.912538286764 amount of SPY at $405.67
+Buy 4931.868807430146 amount of SPY at $405.46500000000003
+Buy 7397.803211145219 amount of SPY at $405.56
+Buy 11096.704816717829 amount of SPY at $405.525
+Buy 16645.057225076744 amount of SPY at $405.525
+Buy 24967.585837615115 amount of SPY at $405.45
+Buy 37451.37875642267 amount of SPY at $405.475
+Sell 56177.06813463401 amount of SPY at $406.115
+36879.387963981506
+Sell 28088.534067317007 amount of SPY at $406.215
+56783.05445395201
+Sell 14044.267033658503 amount of SPY at $406.21000000000004
+66664.66636376984
+Sell 7022.133516829252 amount of SPY at $406.26
+71956.57899451989
+Sell 3511.066758414626 amount of SPY at $406.36
+74953.64198573647
+Sell 1755.533379207313 amount of SPY at $406.34000000000003
+76417.06281376064
+Sell 877.7666896036565 amount of SPY at $406.26
+77078.5518926044
+Buy 438.88334480182823 amount of SPY at $406.065
+Buy 658.3250172027424 amount of SPY at $406.04499999999996
+Sell 987.4875258041136 amount of SPY at $406.16499999999996
+77429.04618254234
+Buy 493.7437629020568 amount of SPY at $406.16499999999996
+Sell 740.6156443530851 amount of SPY at $406.25
+77667.24565728131
+Sell 370.3078221765426 amount of SPY at $406.14
+77745.61153421136
+Buy 185.1539110882713 amount of SPY at $406.14
+Sell 277.7308666324069 amount of SPY at $406.13
+77782.01716401006
+Buy 138.86543331620345 amount of SPY at $406.13
+Sell 208.29814997430518 amount of SPY at $406.095
+77792.92954366031
+Buy 104.14907498715259 amount of SPY at $406.095
+Buy 156.2236124807289 amount of SPY at $406.02
+Sell 234.33541872109333 amount of SPY at $406.32500000000005
+77858.14126525934
+Buy 117.16770936054667 amount of SPY at $405.95000000000005
+Sell 175.75156404082 amount of SPY at $406.08500000000004
+77870.53569619416
+Buy 87.87578202041 amount of SPY at $406.08500000000004
+Sell 131.813673030615 amount of SPY at $406.45
+77924.84490231774
+Sell 65.9068365153075 amount of SPY at $406.6
+77961.88553085683
+Sell 32.95341825765375 amount of SPY at $406.905
+77990.45663769495
+Sell 16.476709128826876 amount of SPY at $407.46500000000003
+78013.96914822616
+Sell 8.238354564413438 amount of SPY at $407.53999999999996
+78026.3432800841
+Sell 4.119177282206719 amount of SPY at $407.53
+78032.48915424025
+Sell 2.0595886411033595 amount of SPY at $407.6
+78035.70626252319
+Sell 1.0297943205516797 amount of SPY at $407.56
+78037.27362489185
+Sell 0.5148971602758399 amount of SPY at $408.315
+78038.44605343218
+Sell 0.25744858013791994 amount of SPY at $408.37
+78039.04642737425
+Sell 0.12872429006895997 amount of SPY at $408.425
+78039.35369418125
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06436214503447998 amount of SPY at $408.2
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.09654321755171998 amount of SPY at $408.01
+Buy 0.14481482632757997 amount of SPY at $407.9
+Buy 0.21722223949136996 amount of SPY at $407.86
+Buy 0.3258333592370549 amount of SPY at $407.905
+Buy 0.4887500388555824 amount of SPY at $407.825
+Buy 0.7331250582833736 amount of SPY at $407.65495
+Buy 1.0996875874250605 amount of SPY at $407.71500000000003
+Buy 1.6495313811375907 amount of SPY at $407.77
+Buy 2.474297071706386 amount of SPY at $407.83500000000004
+Buy 3.711445607559579 amount of SPY at $407.835
+Sell 5.5671684113393685 amount of SPY at $408.53
+78043.48755077332
+Sell 2.7835842056696842 amount of SPY at $408.78485
+78046.26387550417
+Sell 1.3917921028348421 amount of SPY at $408.97
+78047.90972817743
+Sell 0.6958960514174211 amount of SPY at $408.70500000000004
+78048.54824206044
+Sell 0.34794802570871053 amount of SPY at $408.85
+78048.91795146567
+Sell 0.17397401285435526 amount of SPY at $409.12005
+78049.14978785046
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08698700642717763 amount of SPY at $411.815
+Sell 0.13048050964076646 amount of SPY at $411.8449
+78049.50403304306
+Buy 0.06524025482038323 amount of SPY at $411.8449
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.09786038223057485 amount of SPY at $411.765
+Buy 0.14679057334586226 amount of SPY at $411.57
+Buy 0.2201858600187934 amount of SPY at $411.48749999999995
+Buy 0.3302787900281901 amount of SPY at $411.5045
+Buy 0.4954181850422852 amount of SPY at $411.32500000000005
+Buy 0.7431272775634278 amount of SPY at $411.47
+Buy 1.1146909163451417 amount of SPY at $411.365
+Buy 1.6720363745177127 amount of SPY at $411.2
+Buy 2.508054561776569 amount of SPY at $411.155
+Buy 3.7620818426648532 amount of SPY at $411.3825
+Buy 5.64312276399728 amount of SPY at $411.245
+Buy 8.46468414599592 amount of SPY at $411.17499999999995
+Buy 12.69702621899388 amount of SPY at $411.06935
+Buy 19.04553932849082 amount of SPY at $410.9225
+Buy 28.568308992736227 amount of SPY at $411.0325
+Buy 42.85246348910434 amount of SPY at $410.9
+Buy 64.2786952336565 amount of SPY at $410.69
+Buy 96.41804285048477 amount of SPY at $410.73
+Buy 144.62706427572715 amount of SPY at $410.8364
+Sell 216.94059641359073 amount of SPY at $411.49
+78189.49778655195
+Sell 108.47029820679536 amount of SPY at $411.65
+78276.84991101948
+Sell 54.23514910339768 amount of SPY at $411.685
+78322.42420347186
+Sell 27.11757455169884 amount of SPY at $411.62
+78343.44870735219
+Sell 13.55878727584942 amount of SPY at $411.655
+78354.435516847
+Sell 6.77939363792471 amount of SPY at $411.86
+78361.31869729019
+Sell 3.389696818962355 amount of SPY at $411.985
+78365.18399961415
+Sell 1.6948484094811775 amount of SPY at $411.8675
+78366.91750608802
+Sell 0.8474242047405888 amount of SPY at $411.91999999999996
+78367.8287490957
+Sell 0.4237121023702944 amount of SPY at $412.055
+78368.34157173336
+Sell 0.2118560511851472 amount of SPY at $411.86
+78368.5566711222
+Sell 0.1059280255925736 amount of SPY at $411.88
+78368.66633937715
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0529640127962868 amount of SPY at $411.71445
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0794460191944302 amount of SPY at $412.46995000000004
+Buy 0.1191690287916453 amount of SPY at $412.48
+Sell 0.17875354318746794 amount of SPY at $412.54635
+78368.78548472613
+Buy 0.08937677159373397 amount of SPY at $412.54635
+Sell 0.13406515739060096 amount of SPY at $412.605
+78368.85292032211
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06703257869530048 amount of SPY at $412.4937
+Buy 0.10054886804295071 amount of SPY at $412.39750000000004
+Buy 0.15082330206442607 amount of SPY at $412.3175
+Buy 0.2262349530966391 amount of SPY at $412.35249999999996
+Buy 0.33935242964495865 amount of SPY at $412.28499999999997
+Buy 0.509028644467438 amount of SPY at $412.275
+Buy 0.7635429667011571 amount of SPY at $412.15999999999997
+Buy 1.1453144500517356 amount of SPY at $412.075
+Buy 1.7179716750776035 amount of SPY at $412.08500000000004
+Buy 2.5769575126164055 amount of SPY at $412.22
+Buy 3.8654362689246082 amount of SPY at $412.28
+Buy 5.798154403386913 amount of SPY at $412.245
+Buy 8.697231605080368 amount of SPY at $412.17499999999995
+Buy 13.045847407620553 amount of SPY at $412.0175
+Buy 19.568771111430827 amount of SPY at $412.045
+Sell 29.35315666714624 amount of SPY at $412.24
+78372.64474053688
+Buy 14.67657833357312 amount of SPY at $412.24
+Sell 22.01486750035968 amount of SPY at $412.19
+78373.43990726925
+Buy 11.00743375017984 amount of SPY at $412.19
+Sell 16.51115062526976 amount of SPY at $412.2175
+78374.29154727762
+Buy 8.25557531263488 amount of SPY at $412.2175
+Sell 12.38336296895232 amount of SPY at $412.22
+78374.74832568923
+Buy 6.19168148447616 amount of SPY at $412.22
+Sell 9.28752222671424 amount of SPY at $412.33000000000004
+78375.99834233997
+Sell 4.64376111335712 amount of SPY at $412.36
+78376.76266349874
+Sell 2.32188055667856 amount of SPY at $412.345
+78377.10999586977
+Sell 1.16094027833928 amount of SPY at $412.36995
+78377.31262751523
+Sell 0.58047013916964 amount of SPY at $412.24505
+78377.34144261759
+Buy 0.29023506958482 amount of SPY at $412.24505
+Sell 0.43535260437723 amount of SPY at $412.2503
+78377.35813576993
+Buy 0.217676302188615 amount of SPY at $412.2503
+Sell 0.3265144532829225 amount of SPY at $412.2455
+78377.36491507673
+Buy 0.16325722664146125 amount of SPY at $412.2455
+Sell 0.24488583996219188 amount of SPY at $412.185
+78377.35348913682
+Buy 0.12244291998109594 amount of SPY at $412.185
+Buy 0.18366437997164392 amount of SPY at $412.01275
+Buy 0.27549656995746585 amount of SPY at $411.90999999999997
+Buy 0.4132448549361988 amount of SPY at $411.94
+Buy 0.6198672824042981 amount of SPY at $412.07
+Sell 0.9298009236064472 amount of SPY at $412.1575
+78377.46217037803
+Buy 0.4649004618032236 amount of SPY at $412.1575
+Sell 0.6973506927048354 amount of SPY at $412.29999999999995
+78377.61588347235
+Sell 0.3486753463524177 amount of SPY at $412.41999999999996
+78377.73458106107
+Sell 0.17433767317620885 amount of SPY at $412.3775
+78377.78652050432
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08716883658810443 amount of SPY at $412.33500000000004
+Buy 0.13075325488215664 amount of SPY at $412.35749999999996
+Buy 0.19612988232323497 amount of SPY at $412.355
+Buy 0.2941948234848525 amount of SPY at $412.2905
+Buy 0.44129223522727873 amount of SPY at $412.28499999999997
+Buy 0.6619383528409181 amount of SPY at $412.275
+Buy 0.9929075292613772 amount of SPY at $412.40250000000003
+Sell 1.4893612938920657 amount of SPY at $412.47755
+78378.02158739207
+Buy 0.7446806469460329 amount of SPY at $412.47755
+Sell 1.1170209704190492 amount of SPY at $412.54245
+78378.21161549693
+Sell 0.5585104852095246 amount of SPY at $412.48
+78378.27175056955
+Buy 0.2792552426047623 amount of SPY at $412.48
+Sell 0.41888286390714347 amount of SPY at $412.4225
+78378.27773234119
+Buy 0.20944143195357173 amount of SPY at $412.4225
+Buy 0.31416214793035757 amount of SPY at $412.32995
+Buy 0.47124322189553636 amount of SPY at $412.21500000000003
+Buy 0.7068648328433045 amount of SPY at $412.259
+Buy 1.0602972492649567 amount of SPY at $412.28
+Buy 1.5904458738974352 amount of SPY at $412.18745
+Buy 2.385668810846153 amount of SPY at $412.1675
+Buy 3.578503216269229 amount of SPY at $412.005
+Buy 5.3677548244038435 amount of SPY at $412.04999999999995
+Buy 8.051632236605766 amount of SPY at $412.055
+Buy 12.077448354908649 amount of SPY at $412.045
+Buy 18.116172532362974 amount of SPY at $412.005
+Buy 27.17425879854446 amount of SPY at $411.9925
+Buy 40.76138819781669 amount of SPY at $412.075
+Buy 61.142082296725036 amount of SPY at $412.0725
+Buy 91.71312344508755 amount of SPY at $412.115
+Buy 137.56968516763132 amount of SPY at $412.09770000000003
+Buy 206.354527751447 amount of SPY at $412.10540000000003
+Sell 309.5317916271705 amount of SPY at $412.17499999999995
+78404.43141135864
+Buy 154.76589581358525 amount of SPY at $412.17499999999995
+Sell 232.14884372037787 amount of SPY at $412.15
+78411.70452977438
+Buy 116.07442186018893 amount of SPY at $412.15
+Sell 174.1116327902834 amount of SPY at $412.205
+78424.9172287857
+Buy 87.0558163951417 amount of SPY at $412.205
+Sell 130.58372459271254 amount of SPY at $412.21410000000003
+78432.71189018516
+Buy 65.29186229635627 amount of SPY at $412.21410000000003
+Sell 97.9377934445344 amount of SPY at $412.14250000000004
+78429.59687487426
+Buy 48.9688967222672 amount of SPY at $412.14250000000004
+Sell 73.4533450834008 amount of SPY at $412.16999999999996
+78430.05933420859
+Buy 36.7266725417004 amount of SPY at $412.16999999999996
+Sell 55.09000881255061 amount of SPY at $412.21585000000005
+78432.81644077982
+Buy 27.545004406275304 amount of SPY at $412.21585000000005
+Sell 41.31750660941296 amount of SPY at $412.1775
+78432.61046768696
+Buy 20.65875330470648 amount of SPY at $412.1775
+Sell 30.98812995705972 amount of SPY at $412.1875
+78432.8173624401
+Buy 15.49406497852986 amount of SPY at $412.1875
+Sell 23.241097467794788 amount of SPY at $412.17639999999994
+78432.66283363476
+Buy 11.620548733897394 amount of SPY at $412.17639999999994
+Sell 17.43082310084609 amount of SPY at $412.10749999999996
+78431.38458552046
+Buy 8.715411550423045 amount of SPY at $412.10749999999996
+Sell 13.073117325634568 amount of SPY at $412.155
+78431.36643453626
+Buy 6.536558662817284 amount of SPY at $412.155
+Sell 9.804837994225926 amount of SPY at $412.15
+78431.3083348542
+Buy 4.902418997112963 amount of SPY at $412.15
+Sell 7.353628495669444 amount of SPY at $412.245
+78431.97787972026
+Buy 3.676814247834722 amount of SPY at $412.245
+Sell 5.515221371752083 amount of SPY at $412.16999999999996
+78431.8990105504
+Buy 2.7576106858760414 amount of SPY at $412.16999999999996
+Sell 4.136416028814062 amount of SPY at $412.025
+78431.2597956413
+Buy 2.068208014407031 amount of SPY at $412.025
+Sell 3.1023120216105466 amount of SPY at $412.0325
+78430.9634555269
+Buy 1.5511560108052733 amount of SPY at $412.0325
+Sell 2.3267340162079098 amount of SPY at $412.125
+78431.03050836621
+Buy 1.1633670081039549 amount of SPY at $412.125
+Sell 1.7450505121559323 amount of SPY at $412.33500000000004
+78431.43049539342
+Sell 0.8725252560779662 amount of SPY at $412.435
+78431.71774143263
+Sell 0.4362626280389831 amount of SPY at $412.36249999999995
+78431.8297354117
+Sell 0.21813131401949154 amount of SPY at $412.35249999999996
+78431.88355108809
+Sell 0.10906565700974577 amount of SPY at $412.405
+78431.91618487328
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.054532828504872885 amount of SPY at $412.4921
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08179924275730932 amount of SPY at $413.9
+Buy 0.12269886413596398 amount of SPY at $413.7901
+Buy 0.18404829620394597 amount of SPY at $413.795
+Buy 0.27607244430591893 amount of SPY at $413.945
+Buy 0.4141086664588784 amount of SPY at $413.83000000000004
+Buy 0.6211629996883176 amount of SPY at $413.9125
+Buy 0.9317444995324764 amount of SPY at $413.865
+Buy 1.3976167492987146 amount of SPY at $413.875
+Buy 2.096425123948072 amount of SPY at $413.9
+Buy 3.144637685922108 amount of SPY at $413.845
+Sell 4.716956528883162 amount of SPY at $414.245
+78433.82082474876
+Sell 2.358478264441581 amount of SPY at $414.495
+78435.36276425261
+Sell 1.1792391322207905 amount of SPY at $414.71500000000003
+78436.39316661363
+Sell 0.5896195661103952 amount of SPY at $414.92499999999995
+78437.03218790302
+Sell 0.2948097830551976 amount of SPY at $414.93
+78437.35317259663
+Sell 0.1474048915275988 amount of SPY at $415.11255000000006
+78437.54057370638
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0737024457637994 amount of SPY at $415.78499999999997
+Buy 0.1105536686456991 amount of SPY at $416.27
+Buy 0.16583050296854865 amount of SPY at $416.27
+Buy 0.248745754452823 amount of SPY at $416.25
+Buy 0.3731186316792345 amount of SPY at $416.255
+Buy 0.5596779475188517 amount of SPY at $416.225
+Buy 0.8395169212782776 amount of SPY at $416.2
+Buy 1.2592753819174165 amount of SPY at $416.235
+Sell 1.8889130728761248 amount of SPY at $416.265
+78437.79730844738
+Buy 0.9444565364380624 amount of SPY at $416.265
+Buy 1.4166848046570935 amount of SPY at $416.23
+Sell 2.1250272069856404 amount of SPY at $416.28
+78437.98234321005
+Buy 1.0625136034928202 amount of SPY at $416.28
+Sell 1.5937704052392303 amount of SPY at $416.27495
+78438.06681205085
+Buy 0.7968852026196152 amount of SPY at $416.27495
+Buy 1.1953278039294228 amount of SPY at $416.15999999999997
+Sell 1.7929917058941343 amount of SPY at $416.2401
+78438.11526217582
+Buy 0.8964958529470671 amount of SPY at $416.2401
+Sell 1.3447437794206007 amount of SPY at $416.265
+78438.17297135842
+Buy 0.6723718897103004 amount of SPY at $416.265
+Sell 1.0085578345654507 amount of SPY at $416.21000000000004
+78438.14635526882
+Buy 0.5042789172827253 amount of SPY at $416.21000000000004
+Sell 0.756418375924088 amount of SPY at $416.195
+78438.12170094838
+Buy 0.378209187962044 amount of SPY at $416.195
+Sell 0.567313781943066 amount of SPY at $416.185
+78438.10370065035
+Buy 0.283656890971533 amount of SPY at $416.185
+Sell 0.4254853364572995 amount of SPY at $416.17
+78438.08831822129
+Buy 0.21274266822864976 amount of SPY at $416.17
+Sell 0.31911400234297466 amount of SPY at $416.2
+78438.09020042683
+Buy 0.15955700117148733 amount of SPY at $416.2
+Sell 0.239335501757231 amount of SPY at $416.28
+78438.11028836973
+Buy 0.1196677508786155 amount of SPY at $416.28
+Sell 0.17950162631792327 amount of SPY at $416.19
+78438.10417719482
+Buy 0.08975081315896163 amount of SPY at $416.19
+Sell 0.13462621973844247 amount of SPY at $416.175
+78438.09910221407
+Buy 0.06731310986922123 amount of SPY at $416.175
+Sell 0.10096966480383185 amount of SPY at $416.21000000000004
+78438.10009866196
+Buy 0.050484832401915924 amount of SPY at $416.21000000000004
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07572724860287389 amount of SPY at $416.9
+Buy 0.11359087290431083 amount of SPY at $416.81
+Buy 0.17038630935646626 amount of SPY at $416.735
+Buy 0.2555794640346994 amount of SPY at $416.5
+Buy 0.3833691960520491 amount of SPY at $416.255
+Buy 0.5750537940780737 amount of SPY at $416.185
+Buy 0.8625806911171106 amount of SPY at $416.205
+Buy 1.2938710366756658 amount of SPY at $416.15
+Buy 1.9408065550134987 amount of SPY at $415.97
+Buy 2.9112098325202482 amount of SPY at $415.87
+Buy 4.366814748780373 amount of SPY at $415.58500000000004
+Buy 6.550222123170559 amount of SPY at $415.67
+Buy 9.825333184755838 amount of SPY at $415.72
+Buy 14.737999777133757 amount of SPY at $415.71000000000004
+Buy 22.106999665700634 amount of SPY at $415.75
+Buy 33.16049949855095 amount of SPY at $415.41999999999996
+Buy 49.74074924782642 amount of SPY at $415.21500000000003
+Buy 74.61112387173964 amount of SPY at $415.35
+Buy 111.91668580760945 amount of SPY at $415.44
+Buy 167.8750287114142 amount of SPY at $415.41499999999996
+Sell 251.81254306712128 amount of SPY at $415.75
+78516.94713323658
+Sell 125.90627153356064 amount of SPY at $415.865
+78570.84987175025
+Sell 62.95313576678032 amount of SPY at $415.775
+78592.13545878808
+Buy 31.47656788339016 amount of SPY at $415.52
+Buy 47.21485182508524 amount of SPY at $415.39
+Sell 70.82227773762786 amount of SPY at $415.75
+78614.10981674501
+Sell 35.41113886881393 amount of SPY at $415.92
+78631.11688933117
+Sell 17.705569434406964 amount of SPY at $415.92
+78639.62042562425
+Sell 8.852784717203482 amount of SPY at $416.0
+78644.58041654817
+Sell 4.426392358601741 amount of SPY at $415.85
+78646.39645315634
+Sell 2.2131961793008705 amount of SPY at $415.75
+78647.0831518425
+Sell 1.1065980896504353 amount of SPY at $415.985
+78647.68655173664
+Sell 0.5532990448252176 amount of SPY at $416.16
+78648.08507901656
+Sell 0.2766495224126088 amount of SPY at $416.1
+78648.26774368517
+Sell 0.1383247612063044 amount of SPY at $416.13
+78648.36322576231
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0691623806031522 amount of SPY at $416.3
+Sell 0.1037435709047283 amount of SPY at $416.56
+78648.44969773402
+Buy 0.05187178545236415 amount of SPY at $416.205
+Buy 0.07780767817854622 amount of SPY at $416.055
+Buy 0.11671151726781934 amount of SPY at $416.01
+Buy 0.175067275901729 amount of SPY at $416.005
+Buy 0.2626009138525935 amount of SPY at $416.01
+Buy 0.3939013707788902 amount of SPY at $416.01
+Sell 0.5908520561683352 amount of SPY at $416.58
+78648.79481940623
+Sell 0.2954260280841676 amount of SPY at $416.58
+78648.96738024235
+Sell 0.1477130140420838 amount of SPY at $416.51
+78649.04332074942
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0738565070210419 amount of SPY at $416.51
+Sell 0.11078476053156286 amount of SPY at $416.99
+78649.13446768801
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05539238026578143 amount of SPY at $416.51
+Buy 0.08308857039867215 amount of SPY at $416.49
+Buy 0.12463285559800823 amount of SPY at $416.5
+Buy 0.18694928339701233 amount of SPY at $416.5
+Buy 0.2804239250955185 amount of SPY at $416.12
+Buy 0.42063588764327775 amount of SPY at $416.06
+Buy 0.6309538314649166 amount of SPY at $415.985
+Buy 0.9464307471973749 amount of SPY at $415.91999999999996
+Buy 1.4196461207960622 amount of SPY at $415.805
+Buy 2.1294691811940933 amount of SPY at $415.725
+Buy 3.1942037717911402 amount of SPY at $415.78
+Buy 4.79130565768671 amount of SPY at $415.555
+Buy 7.186958486530065 amount of SPY at $415.42
+Buy 10.780437729795096 amount of SPY at $415.36
+Buy 16.170656594692645 amount of SPY at $415.1
+Buy 24.255984892038967 amount of SPY at $415.005
+Buy 36.38397733805845 amount of SPY at $414.865
+Buy 54.57596600708767 amount of SPY at $414.705
+Buy 81.8639490106315 amount of SPY at $414.62
+Buy 122.79592351594725 amount of SPY at $414.7
+Buy 184.19388527392087 amount of SPY at $414.7
+Buy 276.2908279108813 amount of SPY at $414.67499999999995
+Buy 414.436241866322 amount of SPY at $414.53
+Buy 621.654362799483 amount of SPY at $414.355
+Buy 932.4815441992246 amount of SPY at $414.26
+Buy 1398.7223162988369 amount of SPY at $414.185
+Buy 2098.0834744482554 amount of SPY at $414.15
+Buy 3147.125211672383 amount of SPY at $414.1
+Buy 4720.687817508575 amount of SPY at $414.025
+Buy 7081.031726262862 amount of SPY at $414.03
+Buy 10621.547589394293 amount of SPY at $414.0
+Buy 15932.32138409144 amount of SPY at $414.135
+Buy 23898.48207613716 amount of SPY at $414.0
+Buy 35847.72311420574 amount of SPY at $414.01
+Buy 53771.584671308614 amount of SPY at $414.02
+Buy 80657.37700696292 amount of SPY at $413.85
+Buy 120986.06551044439 amount of SPY at $413.8
+Buy 181479.09826566657 amount of SPY at $413.755
+Buy 272218.6473984999 amount of SPY at $413.73
+Buy 408327.97109774983 amount of SPY at $413.77
+Buy 612491.9566466247 amount of SPY at $413.7
+Sell 918737.9349699371 amount of SPY at $415.38
+1559417.3190328334
+Sell 459368.96748496854 amount of SPY at $414.525
+1907040.9441157498
+Sell 229684.48374248427 amount of SPY at $415.02
+2194546.5761097386
+Sell 114842.24187124213 amount of SPY at $415.18
+2356674.1508061346
+Sell 57421.12093562107 amount of SPY at $415.35
+2447499.5287133893
+Sell 28710.560467810534 amount of SPY at $415.39
+2494060.640085728
+Sell 14355.280233905267 amount of SPY at $415.38
+2517197.6429695585
+Sell 7177.640116952633 amount of SPY at $415.355
+2528586.70340855
+Sell 3588.8200584763167 amount of SPY at $415.45
+2534622.171533601
+Sell 1794.4100292381584 amount of SPY at $415.53999999999996
+2537801.402498758
+Sell 897.2050146190792 amount of SPY at $415.815
+2539637.7493603565
+Sell 448.6025073095396 amount of SPY at $415.735
+2540520.034590571
+Sell 224.3012536547698 amount of SPY at $415.58000000000004
+2540926.410511362
+Sell 112.1506268273849 amount of SPY at $415.645
+2541136.888262501
+Sell 56.07531341369245 amount of SPY at $415.87
+2541254.7440835885
+Sell 28.037656706846224 amount of SPY at $415.99
+2541317.036512937
+Sell 14.018828353423112 amount of SPY at $416.16999999999996
+2541350.706116715
+Sell 7.009414176711556 amount of SPY at $416.005
+2541366.384365265
+Sell 3.504707088355778 amount of SPY at $415.91
+2541373.890542366
+Buy 1.752353544177889 amount of SPY at $415.61
+Buy 2.6285303162668336 amount of SPY at $415.62
+Buy 3.9427954744002505 amount of SPY at $415.58000000000004
+Buy 5.9141932116003755 amount of SPY at $415.455
+Buy 8.871289817400562 amount of SPY at $415.31
+Buy 13.306934726100843 amount of SPY at $415.415
+Buy 19.960402089151266 amount of SPY at $415.18
+Buy 29.9406031337269 amount of SPY at $414.845
+Buy 44.91090470059035 amount of SPY at $414.64
+Buy 67.36635705088553 amount of SPY at $414.59
+Buy 101.04953557632828 amount of SPY at $414.59000000000003
+Buy 151.57430336449244 amount of SPY at $414.63
+Buy 227.36145504673866 amount of SPY at $414.45500000000004
+Buy 341.04218257010797 amount of SPY at $414.405
+Buy 511.5632738551619 amount of SPY at $414.005
+Buy 767.3449107827429 amount of SPY at $413.91999999999996
+Buy 1151.0173661741144 amount of SPY at $413.79999999999995
+Buy 1726.5260492611715 amount of SPY at $413.625
+Buy 2589.789073891757 amount of SPY at $413.475
+Buy 3884.6836108376356 amount of SPY at $413.39
+Buy 5827.025416256453 amount of SPY at $413.37
+Buy 8740.53812438468 amount of SPY at $413.55
+Buy 13110.807186577022 amount of SPY at $413.57
+Buy 19666.210779865534 amount of SPY at $413.46500000000003
+Buy 29499.3161697983 amount of SPY at $413.28
+Buy 44248.97425469745 amount of SPY at $412.92
+Buy 66373.46138204618 amount of SPY at $412.89
+Buy 99560.19207306928 amount of SPY at $412.6
+Buy 149340.28810960392 amount of SPY at $412.68
+Buy 224010.43216440588 amount of SPY at $412.5
+Buy 336015.6482466088 amount of SPY at $412.375
+Buy 504023.4723699132 amount of SPY at $412.20000000000005
+Buy 756035.2085548698 amount of SPY at $412.235
+Sell 1134052.8128323047 amount of SPY at $412.645
+2820115.0283607175
+Sell 567026.4064161524 amount of SPY at $412.74
+3013353.105879443
+Sell 283513.2032080762 amount of SPY at $412.6
+3070280.2961896793
+Sell 141756.6016040381 amount of SPY at $412.54
+3090238.4952485547
+Sell 70878.30080201905 amount of SPY at $412.62
+3105887.8588421526
+Sell 35439.15040100952 amount of SPY at $412.54499999999996
+3111054.6043588743
+Buy 17719.57520050476 amount of SPY at $412.365
+Buy 26579.362800757142 amount of SPY at $412.075
+Buy 39869.044201135715 amount of SPY at $412.145
+Buy 59803.56630170357 amount of SPY at $412.21500000000003
+Buy 89705.34945255535 amount of SPY at $412.38
+Sell 134558.02417883303 amount of SPY at $412.575
+3150757.7184786675
+Sell 67279.01208941652 amount of SPY at $412.73
+3181037.522412426
+Sell 33639.50604470826 amount of SPY at $412.755
+3197018.4120304217
+Sell 16819.75302235413 amount of SPY at $412.755
+3205008.85683942
+Sell 8409.876511177064 amount of SPY at $412.67
+3208289.239740469
+Sell 4204.938255588532 amount of SPY at $412.605
+3209656.1102043805
+Sell 2102.469127794266 amount of SPY at $412.595
+3210318.520745058
+Sell 1051.234563897133 amount of SPY at $412.61
+3210665.4945338555
+Sell 525.6172819485665 amount of SPY at $412.655
+3210862.6342059416
+Sell 262.80864097428326 amount of SPY at $412.655
+3210961.204041985
+Sell 131.40432048714163 amount of SPY at $412.775
+3211026.257478465
+Sell 65.70216024357082 amount of SPY at $412.7
+3211053.8565346864
+Sell 32.85108012178541 amount of SPY at $412.595
+3211064.2066993844
+Buy 16.425540060892704 amount of SPY at $412.595
+Sell 24.638310091339058 amount of SPY at $412.7
+3211071.968804293
+Buy 12.319155045669529 amount of SPY at $412.7
+Sell 18.47873256850429 amount of SPY at $412.64
+3211074.741132793
+Buy 9.239366284252146 amount of SPY at $412.64
+Sell 13.859049426378219 amount of SPY at $412.525
+3211074.533506359
+Buy 6.929524713189109 amount of SPY at $412.525
+Sell 10.394287069783664 amount of SPY at $412.56
+3211074.7934931894
+Buy 5.197143534891832 amount of SPY at $412.56
+Sell 7.795715302337747 amount of SPY at $412.545
+3211074.8065508753
+Buy 3.8978576511688736 amount of SPY at $412.545
+Sell 5.84678647675331 amount of SPY at $412.7
+3211075.719331622
+Buy 2.923393238376655 amount of SPY at $412.7
+Sell 4.385089857564983 amount of SPY at $412.685
+3211076.1099456474
+Buy 2.1925449287824916 amount of SPY at $412.685
+Sell 3.2888173931737374 amount of SPY at $412.73
+3211076.453249443
+Buy 1.6444086965868687 amount of SPY at $412.73
+Sell 2.466613044880303 amount of SPY at $412.855
+3211076.933227971
+Sell 1.2333065224401516 amount of SPY at $413.195
+3211077.592541453
+Sell 0.6166532612200758 amount of SPY at $413.42499999999995
+3211078.064028444
+Sell 0.3083266306100379 amount of SPY at $413.6
+3211078.3537290995
+Sell 0.15416331530501895 amount of SPY at $413.62
+3211078.501662694
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07708165765250947 amount of SPY at $413.45
+Buy 0.11562248647876422 amount of SPY at $413.43
+Buy 0.17343372971814633 amount of SPY at $413.52
+Sell 0.2601505945772195 amount of SPY at $413.77
+3211078.6408598437
+Sell 0.13007529728860975 amount of SPY at $413.825
+3211078.71761256
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06503764864430488 amount of SPY at $413.52
+Buy 0.09755647296645731 amount of SPY at $413.5295
+Buy 0.14633470944968596 amount of SPY at $413.64
+Buy 0.21950206417452894 amount of SPY at $413.525
+Buy 0.32925309626179344 amount of SPY at $413.555
+Buy 0.49387964439269016 amount of SPY at $413.475
+Buy 0.7408194665890353 amount of SPY at $413.36
+Buy 1.111229199883553 amount of SPY at $413.345
+Buy 1.6668437998253296 amount of SPY at $413.37
+Buy 2.5002656997379944 amount of SPY at $413.445
+Buy 3.7503985496069916 amount of SPY at $413.51
+Sell 5.625597824410487 amount of SPY at $413.57
+3211079.407013812
+Buy 2.8127989122052437 amount of SPY at $413.57
+Sell 4.2191983683078655 amount of SPY at $413.685
+3211080.2369222506
+Sell 2.1095991841539328 amount of SPY at $413.88
+3211081.0632483107
+Sell 1.0547995920769664 amount of SPY at $413.9
+3211081.497507333
+Sell 0.5273997960384832 amount of SPY at $413.83
+3211081.6777188582
+Sell 0.2636998980192416 amount of SPY at $413.81
+3211081.7625506227
+Sell 0.1318499490096208 amount of SPY at $413.69
+3211081.7891445113
+Buy 0.0659249745048104 amount of SPY at $413.49
+Buy 0.0988874617572156 amount of SPY at $413.48
+Buy 0.1483311926358234 amount of SPY at $413.51
+Buy 0.2224967889537351 amount of SPY at $413.45
+Buy 0.33374518343060267 amount of SPY at $413.43
+Buy 0.500617775145904 amount of SPY at $413.34000000000003
+Buy 0.750926662718856 amount of SPY at $413.215
+Buy 1.126389994078284 amount of SPY at $413.105
+Buy 1.6895849911174259 amount of SPY at $413.03
+Buy 2.5343774866761386 amount of SPY at $413.1
+Buy 3.801566230014208 amount of SPY at $413.28999999999996
+Buy 5.702349345021312 amount of SPY at $413.265
+Buy 8.553524017531968 amount of SPY at $413.17
+Buy 12.830286026297951 amount of SPY at $413.0
+Buy 19.245429039446925 amount of SPY at $412.855
+Buy 28.868143559170388 amount of SPY at $412.7
+Buy 43.30221533875558 amount of SPY at $412.725
+Buy 64.95332300813337 amount of SPY at $412.715
+Buy 97.42998451220005 amount of SPY at $412.695
+Buy 146.14497676830007 amount of SPY at $412.59495
+Buy 219.2174651524501 amount of SPY at $412.54449999999997
+Buy 328.82619772867514 amount of SPY at $412.56
+Buy 493.2392965930127 amount of SPY at $412.505
+Buy 739.8589448895191 amount of SPY at $412.475
+Buy 1109.7884173342786 amount of SPY at $412.475
+Sell 1664.682626001418 amount of SPY at $412.905
+3211716.2709140168
+Sell 832.341313000709 amount of SPY at $412.88
+3212012.7032659445
+Sell 416.1706565003545 amount of SPY at $412.8302
+3212140.1941432147
+Sell 208.08532825017724 amount of SPY at $412.765
+3212190.372418448
+Buy 104.04266412508862 amount of SPY at $412.62
+Buy 156.06399618763294 amount of SPY at $412.525
+Buy 234.0959942814494 amount of SPY at $412.45
+Buy 351.1439914221741 amount of SPY at $412.365
+Buy 526.7159871332611 amount of SPY at $412.57505
+Sell 790.0739806998918 amount of SPY at $412.73
+3212371.2035076935
+Buy 395.0369903499459 amount of SPY at $412.46500000000003
+Buy 592.5554855249188 amount of SPY at $412.33500000000004
+Buy 888.8332282873782 amount of SPY at $412.195
+Buy 1333.2498424310675 amount of SPY at $412.13
+Buy 1999.8747636466012 amount of SPY at $412.33
+Buy 2999.8121454699017 amount of SPY at $412.205
+Buy 4499.718218204853 amount of SPY at $412.29495
+Buy 6749.577327307279 amount of SPY at $412.305
+Buy 10124.36599096092 amount of SPY at $412.16499999999996
+Buy 15186.54898644138 amount of SPY at $412.03999999999996
+Buy 22779.823479662067 amount of SPY at $412.155
+Buy 34169.7352194931 amount of SPY at $412.075
+Buy 51254.60282923965 amount of SPY at $412.105
+Buy 76881.90424385948 amount of SPY at $412.085
+Buy 115322.85636578922 amount of SPY at $412.1
+Sell 172984.28454868385 amount of SPY at $412.395
+3261896.963293373
+Sell 86492.14227434192 amount of SPY at $412.53
+3298336.2823932483
+Sell 43246.07113717096 amount of SPY at $412.595
+3319366.9365671044
+Sell 21623.03556858548 amount of SPY at $412.4
+3325665.771718157
+Sell 10811.51778429274 amount of SPY at $412.56
+3330545.0321391704
+Sell 5405.75889214637 amount of SPY at $412.485
+3332579.2304327665
+Sell 2702.879446073185 amount of SPY at $412.39
+3333339.5560321873
+Sell 1351.4397230365926 amount of SPY at $412.495
+3333861.6200028164
+Sell 675.7198615182963 amount of SPY at $412.52
+3334139.544984669
+Buy 337.85993075914814 amount of SPY at $412.16999999999996
+Buy 506.7898961387222 amount of SPY at $412.13
+Buy 760.1848442080833 amount of SPY at $412.15999999999997
+Sell 1140.277266312125 amount of SPY at $412.48
+3334527.6791745303
+Sell 570.1386331560625 amount of SPY at $412.73495
+3334867.103113984
+Sell 285.06931657803125 amount of SPY at $412.695
+3335025.4265645137
+Sell 142.53465828901562 amount of SPY at $412.64
+3335096.7488835724
+Sell 71.26732914450781 amount of SPY at $412.76
+3335140.962122599
+Sell 35.633664572253906 amount of SPY at $412.855
+3335166.4539402467
+Sell 17.816832286126953 amount of SPY at $412.7
+3335176.438240066
+Sell 8.908416143063477 amount of SPY at $412.66499999999996
+3335181.118595411
+Sell 4.454208071531738 amount of SPY at $412.78
+3335183.971007012
+Sell 2.227104035765869 amount of SPY at $412.895
+3335185.653329776
+Sell 1.1135520178829346 amount of SPY at $412.91499999999996
+3335186.516762199
+Sell 0.5567760089414673 amount of SPY at $413.045
+3335187.0208592913
+Sell 0.27838800447073364 amount of SPY at $413.225
+3335187.323017678
+Sell 0.13919400223536682 amount of SPY at $413.49
+3335187.5109832822
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06959700111768341 amount of SPY at $412.675
+Buy 0.10439550167652512 amount of SPY at $412.04504999999995
+Buy 0.15659325251478767 amount of SPY at $411.525
+Buy 0.2348898787721815 amount of SPY at $411.5926
+Buy 0.3523348181582723 amount of SPY at $411.57000000000005
+Buy 0.5285022272374085 amount of SPY at $411.21500000000003
+Buy 0.7927533408561127 amount of SPY at $411.03
+Sell 1.1891300112841692 amount of SPY at $411.45000000000005
+3335187.574116996
+Sell 0.5945650056420846 amount of SPY at $411.65
+3335187.724596854
+Sell 0.2972825028210423 amount of SPY at $411.77
+3335187.8355106832
+Sell 0.14864125141052115 amount of SPY at $411.5375
+3335187.856408507
+Buy 0.07432062570526057 amount of SPY at $410.74
+Buy 0.11148093855789086 amount of SPY at $410.4425
+Buy 0.16722140783683628 amount of SPY at $410.40425
+Buy 0.25083211175525444 amount of SPY at $410.31
+Buy 0.37624816763288166 amount of SPY at $410.21
+Buy 0.5643722514493225 amount of SPY at $410.155
+Sell 0.8465583771739837 amount of SPY at $411.43494999999996
+3335188.7592710997
+Sell 0.4232791885869919 amount of SPY at $411.6322
+3335189.294194216
+Sell 0.21163959429349594 amount of SPY at $412.25185
+3335189.6927982485
+Sell 0.10581979714674797 amount of SPY at $412.70500000000004
+3335189.940052506
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.052909898573373984 amount of SPY at $412.765
+Buy 0.07936484786006098 amount of SPY at $412.39750000000004
+Buy 0.11904727179009147 amount of SPY at $412.1843
+Buy 0.17857090768513723 amount of SPY at $412.1975
+Buy 0.26785636152770587 amount of SPY at $412.28999999999996
+Buy 0.4017845422915588 amount of SPY at $412.09
+Buy 0.6026768134373381 amount of SPY at $412.05
+Buy 0.9040152201560072 amount of SPY at $411.8426
+Buy 1.3560228302340107 amount of SPY at $411.66499999999996
+Buy 2.034034245351016 amount of SPY at $411.735
+Sell 3.051051368026524 amount of SPY at $412.06505
+3335190.656036127
+Buy 1.525525684013262 amount of SPY at $411.525
+Buy 2.288288526019893 amount of SPY at $411.47024999999996
+Buy 3.4324327890298396 amount of SPY at $411.65999999999997
+Sell 5.14864918354476 amount of SPY at $411.82500000000005
+3335191.565715232
+Buy 2.57432459177238 amount of SPY at $411.655
+Sell 3.86148688765857 amount of SPY at $411.94
+3335192.683443367
+Sell 1.930743443829285 amount of SPY at $412.28625
+3335193.9108273517
+Sell 0.9653717219146425 amount of SPY at $412.28
+3335194.518485771
+Sell 0.48268586095732124 amount of SPY at $412.3875
+3335194.874203711
+Sell 0.24134293047866062 amount of SPY at $412.45005
+3335195.067158681
+Sell 0.12067146523933031 amount of SPY at $412.44494999999995
+3335195.1630207417
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.060335732619665156 amount of SPY at $414.575
+Buy 0.09050359892949773 amount of SPY at $414.275
+Buy 0.1357553983942466 amount of SPY at $414.195
+Buy 0.2036330975913699 amount of SPY at $414.185
+Buy 0.30544964638705485 amount of SPY at $413.9678
+Buy 0.4581744695805823 amount of SPY at $413.9152
+Buy 0.6872617043708734 amount of SPY at $414.07500000000005
+Buy 1.03089255655631 amount of SPY at $413.865
+Buy 1.546338834834465 amount of SPY at $413.59455
+Buy 2.3195082522516977 amount of SPY at $413.645
+Sell 3.4792623783775465 amount of SPY at $414.41499999999996
+3335197.4801592845
+Sell 1.7396311891887732 amount of SPY at $414.3945
+3335198.6030661166
+Sell 0.8698155945943866 amount of SPY at $414.68
+3335199.412851885
+Sell 0.4349077972971933 amount of SPY at $414.765
+3335199.8547119317
+Sell 0.21745389864859666 amount of SPY at $414.58500000000004
+3335200.0365002532
+Sell 0.10872694932429833 amount of SPY at $414.97
+3335200.1692542895
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.054363474662149164 amount of SPY at $415.28004999999996
+Buy 0.08154521199322375 amount of SPY at $415.18995
+Buy 0.12231781798983563 amount of SPY at $415.195
+Buy 0.18347672698475342 amount of SPY at $415.135
+Buy 0.2752150904771301 amount of SPY at $414.775
+Buy 0.41282263571569516 amount of SPY at $414.405
+Buy 0.6192339535735427 amount of SPY at $414.46005
+Buy 0.9288509303603141 amount of SPY at $414.6703
+Buy 1.3932763955404712 amount of SPY at $414.35
+Buy 2.0899145933107066 amount of SPY at $414.175
+Buy 3.13487188996606 amount of SPY at $414.01
+Buy 4.70230783494909 amount of SPY at $414.1375
+Sell 7.053461752423635 amount of SPY at $414.69000000000005
+3335203.3796330323
+Sell 3.5267308762118175 amount of SPY at $414.95
+3335205.9017724316
+Sell 1.7633654381059087 amount of SPY at $415.09000000000003
+3335207.4097132925
+Sell 0.8816827190529544 amount of SPY at $415.01250000000005
+3335208.0953533123
+Sell 0.4408413595264772 amount of SPY at $414.9153
+3335208.395323542
+Sell 0.2204206797632386 amount of SPY at $415.095
+3335208.584918253
+Sell 0.1102103398816193 amount of SPY at $415.36
+3335208.7089213487
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05510516994080965 amount of SPY at $415.81994999999995
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08265775491121446 amount of SPY at $415.51
+Buy 0.1239866323668217 amount of SPY at $415.44
+Buy 0.18597994855023253 amount of SPY at $415.62
+Buy 0.2789699228253488 amount of SPY at $415.46000000000004
+Buy 0.41845488423802324 amount of SPY at $415.165
+Buy 0.6276823263570348 amount of SPY at $415.205
+Buy 0.9415234895355522 amount of SPY at $415.21000000000004
+Buy 1.4122852343033283 amount of SPY at $415.305
+Buy 2.1184278514549923 amount of SPY at $415.21500000000003
+Buy 3.1776417771824885 amount of SPY at $415.22
+Buy 4.766462665773733 amount of SPY at $415.12
+Buy 7.149693998660599 amount of SPY at $415.25
+Buy 10.724540997990898 amount of SPY at $414.885
+Buy 16.086811496986346 amount of SPY at $414.475
+Buy 24.13021724547952 amount of SPY at $414.395
+Buy 36.195325868219285 amount of SPY at $414.34749999999997
+Buy 54.29298880232893 amount of SPY at $414.005
+Buy 81.4394832034934 amount of SPY at $413.7407
+Buy 122.15922480524009 amount of SPY at $413.59000000000003
+Buy 183.23883720786012 amount of SPY at $413.3225
+Buy 274.8582558117902 amount of SPY at $413.325
+Buy 412.28738371768526 amount of SPY at $412.505
+Buy 618.4310755765279 amount of SPY at $412.325
+Sell 927.6466133647918 amount of SPY at $413.40999999999997
+3335645.1545315045
+Sell 463.8233066823959 amount of SPY at $413.365
+3335842.505287782
+Sell 231.91165334119796 amount of SPY at $413.4121
+3335952.103704793
+Sell 115.95582667059898 amount of SPY at $413.78
+3336049.5630619307
+Sell 57.97791333529949 amount of SPY at $414.225
+3336124.0929119335
+Sell 28.988956667649745 amount of SPY at $414.35
+3336164.9814565186
+Sell 14.494478333824873 amount of SPY at $414.23
+3336183.686391411
+Sell 7.247239166912436 amount of SPY at $414.6125
+3336195.8109278386
+Sell 3.623619583456218 amount of SPY at $414.87
+3336202.806278095
+Sell 1.811809791728109 amount of SPY at $415.03
+3336206.59384279
+Sell 0.9059048958640545 amount of SPY at $415.095
+3336208.546508956
+Sell 0.45295244793202727 amount of SPY at $415.1277
+3336209.5376535836
+Buy 0.22647622396601363 amount of SPY at $414.135
+Buy 0.33971433594902045 amount of SPY at $413.909
+Buy 0.5095715039235307 amount of SPY at $414.09255
+Buy 0.764357255885296 amount of SPY at $413.90999999999997
+Buy 1.146535883827944 amount of SPY at $413.7575
+Buy 1.719803825741916 amount of SPY at $413.90999999999997
+Buy 2.5797057386128737 amount of SPY at $413.255
+Buy 3.8695586079193105 amount of SPY at $412.87
+Buy 5.8043379118789655 amount of SPY at $412.72
+Buy 8.706506867818447 amount of SPY at $412.815
+Buy 13.059760301727671 amount of SPY at $412.815
+Sell 19.589640452591507 amount of SPY at $412.78
+3336205.8643920305
+Sell 9.794820226295753 amount of SPY at $412.725
+3336203.4890461415
+Sell 4.897410113147877 amount of SPY at $412.755
+3336202.4482955006
+Sell 2.4487050565739383 amount of SPY at $412.725
+3336201.854459028
+Sell 1.2243525282869692 amount of SPY at $412.71500000000003
+3336201.545297267
+Buy 0.6121762641434846 amount of SPY at $412.52
+Buy 0.9182643962152268 amount of SPY at $412.5847
+Buy 1.3773965943228403 amount of SPY at $412.605
+Sell 2.0660948914842603 amount of SPY at $412.8
+3336201.761603376
+Sell 1.0330474457421301 amount of SPY at $412.76
+3336201.8284345325
+Buy 0.5165237228710651 amount of SPY at $412.76
+Sell 0.7747855843065976 amount of SPY at $412.765
+3336201.865724039
+Buy 0.3873927921532988 amount of SPY at $412.765
+Sell 0.5810891882299483 amount of SPY at $412.67999999999995
+3336201.8349762107
+Buy 0.29054459411497413 amount of SPY at $412.67999999999995
+Sell 0.4358168911724612 amount of SPY at $412.725
+3336201.8392140567
+Buy 0.2179084455862306 amount of SPY at $412.725
+Sell 0.3268626683793459 amount of SPY at $412.685
+3336201.828258473
+Buy 0.16343133418967296 amount of SPY at $412.685
+Sell 0.24514700128450945 amount of SPY at $412.72
+3336201.8313608263
+Buy 0.12257350064225472 amount of SPY at $412.72
+Sell 0.1838602509633821 amount of SPY at $412.71
+3336201.8310734006
+Buy 0.09193012548169105 amount of SPY at $412.71
+Sell 0.13789518822253657 amount of SPY at $412.74495
+3336201.8357491246
+Buy 0.06894759411126829 amount of SPY at $412.74495
+Sell 0.10342139116690244 amount of SPY at $412.765
+3336201.8401605855
+Buy 0.05171069558345122 amount of SPY at $412.765
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07756604337517684 amount of SPY at $413.24
+Buy 0.11634906506276525 amount of SPY at $413.245
+Buy 0.17452359759414787 amount of SPY at $413.22
+Buy 0.2617853963912218 amount of SPY at $413.21
+Buy 0.39267809458683267 amount of SPY at $413.24
+Buy 0.589017141880249 amount of SPY at $413.185
+Buy 0.8835257128203735 amount of SPY at $413.115
+Buy 1.3252885692305603 amount of SPY at $413.22
+Sell 1.9879328538458405 amount of SPY at $413.30499999999995
+3336202.0984781804
+Buy 0.9939664269229203 amount of SPY at $413.30499999999995
+Sell 1.4909496403843803 amount of SPY at $413.44
+3336202.4289151793
+Sell 0.7454748201921901 amount of SPY at $413.48
+3336202.6239526714
+Sell 0.37273741009609507 amount of SPY at $413.49
+3336202.725198792
+Sell 0.18636870504804753 amount of SPY at $413.475
+3336202.7730263215
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.09318435252402377 amount of SPY at $413.75
+Sell 0.13977652878603564 amount of SPY at $413.79
+3336202.8281568442
+Buy 0.06988826439301782 amount of SPY at $413.79
+Buy 0.10483239658952673 amount of SPY at $413.72
+Buy 0.1572485948842901 amount of SPY at $413.75
+Sell 0.23587289232643516 amount of SPY at $413.79
+3336202.8625362115
+Buy 0.11793644616321758 amount of SPY at $413.79
+Sell 0.17690466924482637 amount of SPY at $413.84
+3336202.8885711287
+Buy 0.08845233462241318 amount of SPY at $413.84
+Buy 0.13267850193361977 amount of SPY at $413.75
+Buy 0.19901775290042967 amount of SPY at $413.74
+Sell 0.2985266293506445 amount of SPY at $413.83
+3336202.914524741
+Buy 0.14926331467532225 amount of SPY at $413.83
+Sell 0.22389497201298336 amount of SPY at $413.89
+3336202.9409352457
+Buy 0.11194748600649168 amount of SPY at $413.89
+Sell 0.16792122900973752 amount of SPY at $413.905
+3336202.9566593166
+Buy 0.08396061450486876 amount of SPY at $413.905
+Sell 0.12594092175730315 amount of SPY at $413.92
+3336202.9664104655
+Buy 0.06297046087865157 amount of SPY at $413.92
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.09445569131797736 amount of SPY at $413.78499999999997
+Sell 0.14168353697696603 amount of SPY at $414.08
+3336203.0003311653
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07084176848848302 amount of SPY at $414.28
+Buy 0.10626265273272453 amount of SPY at $414.39
+Sell 0.1593939790990868 amount of SPY at $414.935
+3336203.130018479
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0796969895495434 amount of SPY at $414.61
+Sell 0.11954548432431511 amount of SPY at $415.0
+3336203.2155833533
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.059772742162157555 amount of SPY at $414.83
+cannot sell stock at amount less than 0.1
+Buy 0.08965911324323633 amount of SPY at $414.565
+Sell 0.1344886698648545 amount of SPY at $415.18
+3336203.307155291
+Buy 0.06724433493242725 amount of SPY at $414.84000000000003
+Buy 0.10086650239864087 amount of SPY at $414.5
+Buy 0.1512997535979613 amount of SPY at $414.46
+Buy 0.22694963039694194 amount of SPY at $414.54
+Buy 0.3404244455954129 amount of SPY at $414.545
+Buy 0.5106366683931194 amount of SPY at $414.3
+Buy 0.7659550025896791 amount of SPY at $414.07
+Buy 1.1489325038845186 amount of SPY at $414.2
+Buy 1.723398755826778 amount of SPY at $414.2
+Buy 2.585098133740167 amount of SPY at $414.2
+Buy 3.8776472006102503 amount of SPY at $414.0
+Buy 5.816470800915376 amount of SPY at $414.0
+Buy 8.724706201373063 amount of SPY at $414.0
+Buy 13.087059302059595 amount of SPY at $414.13
+Sell 19.630588953089394 amount of SPY at $414.27
+3336206.8317459915
+Sell 9.815294476544697 amount of SPY at $414.68
+3336212.618312077
+Sell 4.907647238272348 amount of SPY at $414.25
+3336213.4013068075
+Sell 2.453823619136174 amount of SPY at $414.2
+3336213.6701129917
+Buy 1.226911809568087 amount of SPY at $414.075
+Buy 1.8403677143521306 amount of SPY at $413.85
+Buy 2.760551571528196 amount of SPY at $413.605
+Buy 4.140827357292293 amount of SPY at $413.505
+Buy 6.21124103593844 amount of SPY at $413.4
+Buy 9.31686155390766 amount of SPY at $413.5
+Buy 13.97529233086149 amount of SPY at $413.26
+Buy 20.962938496292235 amount of SPY at $413.25
+Sell 31.44440774443835 amount of SPY at $414.885
+3336260.2740644654
+Buy 15.722203872219175 amount of SPY at $412.81
+Buy 23.583305808328763 amount of SPY at $412.89
+Buy 35.37495871249315 amount of SPY at $412.67
+Buy 53.06243806873972 amount of SPY at $412.555
+Sell 79.59365710310959 amount of SPY at $413.20500000000004
+3336290.6903374544
+Sell 39.796828551554796 amount of SPY at $413.12
+3336302.515743522
+Sell 19.898414275777398 amount of SPY at $413.08
+3336307.632509985
+Sell 9.949207137888699 amount of SPY at $413.17
+3336311.0863218587
+Sell 4.9746035689443495 amount of SPY at $413.13
+3336312.6142436527
+Sell 2.4873017844721748 amount of SPY at $413.12
+3336313.353331532
+Sell 1.2436508922360874 amount of SPY at $413.14
+3336313.7477484895
+Sell 0.6218254461180437 amount of SPY at $413.075
+3336313.9045383143
+Sell 0.31091272305902184 amount of SPY at $413.39
+3336314.0808707345
+Sell 0.15545636152951092 amount of SPY at $413.33
+3336314.159709563
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07772818076475546 amount of SPY at $413.51
+Buy 0.11659227114713319 amount of SPY at $413.4
+Buy 0.17488840672069977 amount of SPY at $413.35
+Buy 0.2623326100810497 amount of SPY at $413.505
+Buy 0.39349891512157453 amount of SPY at $413.3
+Buy 0.5902483726823617 amount of SPY at $413.28
+Buy 0.8853725590235426 amount of SPY at $413.35
+Buy 1.328058838535314 amount of SPY at $413.2
+Buy 1.992088257802971 amount of SPY at $413.01
+Buy 2.9881323867044567 amount of SPY at $413.08000000000004
+Buy 4.482198580056685 amount of SPY at $413.1
+Buy 6.723297870085027 amount of SPY at $413.01
+Buy 10.08494680512754 amount of SPY at $413.03
+Buy 15.12742020769131 amount of SPY at $412.98
+Buy 22.691130311536966 amount of SPY at $413.05499999999995
+Buy 34.03669546730545 amount of SPY at $413.1
+Buy 51.055043200958174 amount of SPY at $412.895
+Buy 76.58256480143726 amount of SPY at $412.93
+Buy 114.87384720215589 amount of SPY at $412.91499999999996
+Buy 172.31077080323382 amount of SPY at $412.83000000000004
+Buy 258.46615620485073 amount of SPY at $412.79
+Buy 387.69923430727613 amount of SPY at $412.98
+Sell 581.5488514609142 amount of SPY at $413.1
+3336424.95119383
+Buy 290.7744257304571 amount of SPY at $413.0
+Sell 436.16163859568564 amount of SPY at $413.12
+3336503.608890022
+Sell 218.08081929784282 amount of SPY at $413.015
+3336520.0392520917
+Buy 109.04040964892141 amount of SPY at $413.015
+Buy 163.56061447338212 amount of SPY at $412.81
+Buy 245.3409217100732 amount of SPY at $412.7
+Buy 368.0113825651098 amount of SPY at $412.93
+Sell 552.0170738476647 amount of SPY at $413.02
+3336602.0611604075
+Sell 276.00853692383237 amount of SPY at $413.11
+3336667.9128828887
+Sell 138.00426846191618 amount of SPY at $412.99
+3336684.2782319137
+Buy 69.00213423095809 amount of SPY at $412.99
+Sell 103.50320134643714 amount of SPY at $412.99
+3336692.4609064264
+Buy 51.75160067321857 amount of SPY at $412.99
+Buy 77.62740100982785 amount of SPY at $412.88
+Buy 116.44110151474177 amount of SPY at $412.825
+Buy 174.66165227211266 amount of SPY at $412.78499999999997
+Buy 261.992478408169 amount of SPY at $412.80499999999995
+Buy 392.9887176122535 amount of SPY at $412.755
+Buy 589.4830764183803 amount of SPY at $412.63
+Buy 884.2246146275704 amount of SPY at $412.5
+Buy 1326.3369219413557 amount of SPY at $412.675
+Sell 1989.5053829120336 amount of SPY at $413.015
+3337380.119123661
+Sell 994.7526914560168 amount of SPY at $413.05
+3337758.7645764793
+Sell 497.3763457280084 amount of SPY at $413.055
+3337950.574184617
+Sell 248.6881728640042 amount of SPY at $413.105
+3338058.913397329
+Sell 124.3440864320021 amount of SPY at $413.115
+3338114.3264445495
+Sell 62.17204321600105 amount of SPY at $413.35
+3338156.6433983156
+Sell 31.086021608000525 amount of SPY at $413.66
+3338187.438541897
+Sell 15.543010804000263 amount of SPY at $413.545
+3338201.0486674453
+Sell 7.771505402000131 amount of SPY at $413.47
+3338207.270867314
+Sell 3.8857527010000656 amount of SPY at $413.44
+3338210.2653946676
+Sell 1.9428763505000328 amount of SPY at $413.595
+3338212.0638041785
+Buy 0.9714381752500164 amount of SPY at $413.34
+Sell 1.4571572628750247 amount of SPY at $413.415
+3338212.824578994
+Buy 0.7285786314375123 amount of SPY at $413.415
+Buy 1.0928679471562686 amount of SPY at $413.26
+Sell 1.6393019207344028 amount of SPY at $413.595
+3338213.5847380133
+Sell 0.8196509603672014 amount of SPY at $413.66999999999996
+3338214.0262913452
+Sell 0.4098254801836007 amount of SPY at $413.57500000000005
+3338214.2081345906
+Sell 0.20491274009180035 amount of SPY at $413.53499999999997
+3338214.2908597034
+Sell 0.10245637004590018 amount of SPY at $413.53
+3338214.331709978
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05122818502295009 amount of SPY at $413.37
+Buy 0.07684227753442513 amount of SPY at $413.395
+Sell 0.1152634163016377 amount of SPY at $413.555
+3338214.3643018096
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05763170815081885 amount of SPY at $413.515
+Buy 0.08644756222622826 amount of SPY at $413.485
+Buy 0.12967134333934238 amount of SPY at $413.515
+Buy 0.19450701500901357 amount of SPY at $413.515
+Sell 0.29176052251352036 amount of SPY at $413.595
+3338214.402930012
+Buy 0.14588026125676018 amount of SPY at $413.595
+Sell 0.21882039188514027 amount of SPY at $413.665
+3338214.437561541
+Sell 0.10941019594257013 amount of SPY at $413.83500000000004
+3338214.4734770386
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05470509797128507 amount of SPY at $414.125
+Buy 0.0820576469569276 amount of SPY at $414.03499999999997
+Buy 0.1230864704353914 amount of SPY at $414.015
+Buy 0.18462970565308712 amount of SPY at $414.005
+Sell 0.2769445584796307 amount of SPY at $414.185
+3338214.545456072
+Buy 0.13847227923981534 amount of SPY at $414.185
+Sell 0.20770841885972302 amount of SPY at $414.475
+3338214.64168103
+Sell 0.10385420942986151 amount of SPY at $414.54499999999996
+3338214.6970633036
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.051927104714930755 amount of SPY at $414.685
+Buy 0.07789065707239613 amount of SPY at $414.685
+Sell 0.1168359856085942 amount of SPY at $414.755
+3338214.740202754
+Buy 0.0584179928042971 amount of SPY at $414.755
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08762698920644565 amount of SPY at $414.66499999999996
+Buy 0.1314404838096685 amount of SPY at $414.53
+Buy 0.19716072571450274 amount of SPY at $414.615
+Buy 0.29574108857175413 amount of SPY at $414.475
+Buy 0.44361163285763117 amount of SPY at $414.305
+Buy 0.6654174492864467 amount of SPY at $414.265
+Buy 0.9981261739296701 amount of SPY at $414.345
+Buy 1.4971892608945052 amount of SPY at $414.425
+Buy 2.245783891341758 amount of SPY at $414.485
+Buy 3.368675837012637 amount of SPY at $414.47
+Sell 5.053013755518956 amount of SPY at $414.79499999999996
+3338216.53553742
+Sell 2.526506877759478 amount of SPY at $414.855
+3338217.5847951653
+Sell 1.263253438879739 amount of SPY at $415.025
+3338218.3241771227
+Sell 0.6316267194398695 amount of SPY at $415.05499999999995
+3338218.712816903
+Sell 0.31581335971993474 amount of SPY at $414.865
+3338218.847132255
+Sell 0.15790667985996737 amount of SPY at $414.88
+3338218.916658531
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07895333992998368 amount of SPY at $414.71500000000003
+Buy 0.11843000989497553 amount of SPY at $414.74
+Buy 0.17764501484246328 amount of SPY at $414.195
+Buy 0.2664675222636949 amount of SPY at $414.37735
+Buy 0.39970128339554234 amount of SPY at $414.33000000000004
+Buy 0.5995519250933135 amount of SPY at $414.0208
+Buy 0.8993278876399702 amount of SPY at $414.28499999999997
+Buy 1.3489918314599554 amount of SPY at $413.81
+Buy 2.0234877471899333 amount of SPY at $413.485
+Buy 3.0352316207849 amount of SPY at $413.15999999999997
+Buy 4.55284743117735 amount of SPY at $412.685
+Buy 6.8292711467660245 amount of SPY at $412.45975
+Buy 10.243906720149036 amount of SPY at $412.76
+Buy 15.365860080223555 amount of SPY at $412.525
+Buy 23.048790120335333 amount of SPY at $412.21000000000004
+Buy 34.573185180503 amount of SPY at $411.065
+Buy 51.859777770754505 amount of SPY at $410.905
+Buy 77.78966665613176 amount of SPY at $410.2
+Buy 116.68449998419763 amount of SPY at $410.03999999999996
+Buy 175.02674997629646 amount of SPY at $409.91
+Buy 262.54012496444466 amount of SPY at $409.575
+Buy 393.810187446667 amount of SPY at $409.25
+Buy 590.7152811700005 amount of SPY at $409.41499999999996
+Sell 886.0729217550007 amount of SPY at $410.12
+3338567.2066647555
+Sell 443.03646087750036 amount of SPY at $410.20505
+3338779.0319188656
+Sell 221.51823043875018 amount of SPY at $410.60955
+3338974.548670133
+Sell 110.75911521937509 amount of SPY at $410.675
+3339079.5562298577
+Sell 55.379557609687545 amount of SPY at $410.8705
+3339142.886713233
+Sell 27.689778804843773 amount of SPY at $410.88
+3339174.815007819
+Sell 13.844889402421886 amount of SPY at $410.895
+3339190.986828453
+Sell 6.922444701210943 amount of SPY at $410.855
+3339198.795840982
+Buy 3.4612223506054716 amount of SPY at $409.71000000000004
+Buy 5.191833525908208 amount of SPY at $409.5
+Buy 7.787750288862311 amount of SPY at $409.3
+Buy 11.681625433293465 amount of SPY at $409.11
+Buy 17.5224381499402 amount of SPY at $409.30505
+Buy 26.2836572249103 amount of SPY at $409.17499999999995
+Buy 39.42548583736545 amount of SPY at $409.095
+Buy 59.13822875604818 amount of SPY at $408.885
+Buy 88.70734313407226 amount of SPY at $408.585
+Buy 133.06101470110838 amount of SPY at $408.49
+Buy 199.59152205166257 amount of SPY at $408.47
+Buy 299.38728307749386 amount of SPY at $408.22
+Buy 449.0809246162408 amount of SPY at $408.095
+Buy 673.6213869243612 amount of SPY at $408.195
+Buy 1010.4320803865419 amount of SPY at $408.2
+Buy 1515.6481205798127 amount of SPY at $408.17999999999995
+Buy 2273.472180869719 amount of SPY at $408.12
+Buy 3410.2082713045784 amount of SPY at $407.955
+Buy 5115.312406956868 amount of SPY at $407.86
+Buy 7672.968610435301 amount of SPY at $407.775
+Buy 11509.452915652952 amount of SPY at $407.704
+Buy 17264.179373479426 amount of SPY at $407.78495
+Buy 25896.26906021914 amount of SPY at $407.78
+Buy 38844.40359032871 amount of SPY at $407.53
+Buy 58266.605385493065 amount of SPY at $407.63
+Buy 87399.90807823959 amount of SPY at $407.63
+Buy 131099.8621173594 amount of SPY at $407.6014
+Buy 196649.79317603906 amount of SPY at $407.68
+Buy 294974.68976405857 amount of SPY at $407.54999999999995
+Buy 442462.03464608785 amount of SPY at $407.33500000000004
+Buy 663693.0519691318 amount of SPY at $407.385
+Buy 995539.5779536976 amount of SPY at $407.395
+Buy 1493309.3669305465 amount of SPY at $407.295
+Buy 2239964.05039582 amount of SPY at $407.375
+Buy 3359946.0755937295 amount of SPY at $407.275
+Buy 5039919.113390595 amount of SPY at $407.20355
+Buy 7559878.670085892 amount of SPY at $407.315
+Sell 11339818.005128838 amount of SPY at $407.82
+9158073.80698076
+Sell 5669909.002564419 amount of SPY at $408.08500000000004
+13570037.198230468
+Sell 2834954.5012822095 amount of SPY at $407.98
+15478348.671220638
+Sell 1417477.2506411048 amount of SPY at $408.0325
+16506921.963374393
+Sell 708738.6253205524 amount of SPY at $408.21005
+17147045.15237693
+Sell 354369.3126602762 amount of SPY at $408.235
+17475948.26122907
+Sell 177184.6563301381 amount of SPY at $408.28999999999996
+17650144.97175329
+Sell 88592.32816506905 amount of SPY at $408.34495
+17742111.475448072
+Sell 44296.164082534524 amount of SPY at $408.28525
+17785450.246299736
+Sell 22148.082041267262 amount of SPY at $408.308
+17807623.50059201
+Sell 11074.041020633631 amount of SPY at $408.28995
+17818510.241297722
+Sell 5537.0205103168155 amount of SPY at $408.2894
+17823950.5662893
+Buy 2768.5102551584077 amount of SPY at $407.885
+Buy 4152.765382737612 amount of SPY at $408.0375
+Sell 6229.148074106417 amount of SPY at $408.2425
+17827461.41531396
+Buy 3114.5740370532085 amount of SPY at $407.98505
+Buy 4671.861055579813 amount of SPY at $407.81
+Buy 7007.79158336972 amount of SPY at $407.695
+Buy 10511.68737505458 amount of SPY at $407.62
+Buy 15767.531062581871 amount of SPY at $407.685
+Buy 23651.29659387281 amount of SPY at $407.58000000000004
+Buy 35476.944890809216 amount of SPY at $407.36
+Buy 53215.417336213824 amount of SPY at $407.23
+Buy 79823.12600432074 amount of SPY at $407.215
+Buy 119734.68900648112 amount of SPY at $407.015
+Buy 179602.0335097217 amount of SPY at $407.2007
+Sell 269403.0502645825 amount of SPY at $408.29999999999995
+18114184.068211712
+Sell 134701.52513229125 amount of SPY at $408.21005
+18245428.992474947
+Sell 67350.76256614563 amount of SPY at $408.39
+18323171.22433034
+Sell 33675.38128307281 amount of SPY at $408.5875
+18368693.22806144
+Sell 16837.690641536406 amount of SPY at $408.745
+18394106.166203037
+Sell 8418.845320768203 amount of SPY at $408.775
+18407065.200633455
+Sell 4209.422660384102 amount of SPY at $409.06500000000005
+18414765.45042018
+Sell 2104.711330192051 amount of SPY at $409.115
+18418720.81088005
+Sell 1052.3556650960254 amount of SPY at $408.89
+18420461.71108534
+Sell 526.1778325480127 amount of SPY at $409.15
+18421468.967424445
+Sell 263.08891627400635 amount of SPY at $409.2
+18421985.750039812
+Sell 131.54445813700318 amount of SPY at $409.38059999999996
+18422267.898276635
+Sell 65.77222906850159 amount of SPY at $409.14930000000004
+18422393.75927846
+Sell 32.886114534250794 amount of SPY at $409.255
+18422460.16584168
+Sell 16.443057267125397 amount of SPY at $409.46995
+18422496.903558448
+Sell 8.221528633562698 amount of SPY at $409.445
+18422515.067289695
+Sell 4.110764316781349 amount of SPY at $409.365
+18422523.82029417
+Sell 2.0553821583906746 amount of SPY at $409.375
+18422528.217350233
+Sell 1.0276910791953373 amount of SPY at $409.5788
+18422530.625321705
+Sell 0.5138455395976687 amount of SPY at $409.72
+18422531.90186243
+Sell 0.2569227697988343 amount of SPY at $409.75
+18422532.547840476
+Sell 0.12846138489941716 amount of SPY at $410.05
+18422532.909367915
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06423069244970858 amount of SPY at $409.62375
+Buy 0.09634603867456287 amount of SPY at $409.59884999999997
+Buy 0.1445190580118443 amount of SPY at $409.47
+Buy 0.21677858701776648 amount of SPY at $409.58500000000004
+Sell 0.3251678805266497 amount of SPY at $410.19995
+18422533.26662453
+Sell 0.16258394026332484 amount of SPY at $410.115
+18422533.43144133
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08129197013166242 amount of SPY at $410.08000000000004
+Buy 0.12193795519749363 amount of SPY at $410.005
+Buy 0.18290693279624046 amount of SPY at $410.06
+Buy 0.27436039919436067 amount of SPY at $410.14005
+Sell 0.41154059879154103 amount of SPY at $410.54
+18422533.698477257
+Sell 0.20577029939577052 amount of SPY at $411.0899
+18422533.945148308
+Sell 0.10288514969788526 amount of SPY at $411.2498
+18422534.08493517
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05144257484894263 amount of SPY at $411.755
+Buy 0.07716386227341394 amount of SPY at $411.66
+Buy 0.11574579341012092 amount of SPY at $411.64
+Buy 0.17361869011518138 amount of SPY at $411.38
+Buy 0.2604280351727721 amount of SPY at $411.44995
+Buy 0.3906420527591581 amount of SPY at $411.575
+Buy 0.5859630791387371 amount of SPY at $411.30494999999996
+Buy 0.8789446187081057 amount of SPY at $411.33
+Buy 1.3184169280621585 amount of SPY at $411.27
+Buy 1.9776253920932376 amount of SPY at $410.995
+Buy 2.9664380881398564 amount of SPY at $410.99
+Buy 4.449657132209785 amount of SPY at $411.105
+Buy 6.674485698314677 amount of SPY at $411.06
+Buy 10.011728547472016 amount of SPY at $410.825
+Buy 15.017592821208023 amount of SPY at $410.81
+Sell 22.526389231812033 amount of SPY at $411.53505
+18422547.385188945
+Sell 11.263194615906016 amount of SPY at $411.48185
+18422553.43611388
+Sell 5.631597307953008 amount of SPY at $411.4
+18422556.000630107
+Sell 2.815798653976504 amount of SPY at $411.515
+18422557.606705066
+Sell 1.407899326988252 amount of SPY at $411.53
+18422558.430861033
+Sell 0.703949663494126 amount of SPY at $411.77
+18422559.011886936
+Sell 0.351974831747063 amount of SPY at $412.03499999999997
+18422559.39567322
+Sell 0.1759874158735315 amount of SPY at $411.85249999999996
+18422559.55544866
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08799370793676575 amount of SPY at $411.4925
+Buy 0.13199056190514863 amount of SPY at $411.385
+Buy 0.19798584285772294 amount of SPY at $411.425
+Buy 0.29697876428658443 amount of SPY at $411.475
+Buy 0.44546814642987664 amount of SPY at $411.38
+Buy 0.668202219644815 amount of SPY at $411.18499999999995
+Buy 1.0023033294672223 amount of SPY at $411.35
+Sell 1.5034549942008335 amount of SPY at $412.09000000000003
+18422560.71755587
+Sell 0.7517274971004168 amount of SPY at $412.1655
+18422561.3553649
+Sell 0.3758637485502084 amount of SPY at $412.22
+18422561.69475399
+Sell 0.1879318742751042 amount of SPY at $412.115
+18422561.84471569
+Buy 0.0939659371375521 amount of SPY at $411.1
+Buy 0.14094890570632815 amount of SPY at $410.605
+Buy 0.21142335855949224 amount of SPY at $410.3125
+Buy 0.31713503783923835 amount of SPY at $409.955
+Buy 0.47570255675885753 amount of SPY at $410.03499999999997
+Buy 0.7135538351382863 amount of SPY at $410.08500000000004
+Buy 1.0703307527074295 amount of SPY at $409.85
+Buy 1.6054961290611443 amount of SPY at $409.72
+Sell 2.4082441935917163 amount of SPY at $409.57500000000005
+18422560.84363056
+Buy 1.2041220967958581 amount of SPY at $409.57500000000005
+Buy 1.806183145193787 amount of SPY at $409.47
+Buy 2.709274717790681 amount of SPY at $409.375
+Buy 4.063912076686021 amount of SPY at $409.28999999999996
+Buy 6.095868115029032 amount of SPY at $409.385
+Sell 9.143802172543548 amount of SPY at $409.46
+18422560.815517776
+Buy 4.571901086271774 amount of SPY at $409.46
+Sell 6.857851629407661 amount of SPY at $409.45
+18422560.732882865
+Buy 3.4289258147038306 amount of SPY at $409.45
+Sell 5.143388722055746 amount of SPY at $409.495
+18422560.923017904
+Buy 2.571694361027873 amount of SPY at $409.495
+Sell 3.857541541541809 amount of SPY at $409.53
+18422561.153099377
+Buy 1.9287707707709045 amount of SPY at $409.53
+Sell 2.8931561561563566 amount of SPY at $409.5
+18422561.18134543
+Buy 1.4465780780781783 amount of SPY at $409.5
+Sell 2.1698671171172674 amount of SPY at $409.525
+18422561.249715135
+Buy 1.0849335585586337 amount of SPY at $409.525
+Sell 1.6274003378379507 amount of SPY at $409.555
+18422561.332721997
+Buy 0.8137001689189753 amount of SPY at $409.555
+Sell 1.220550253378463 amount of SPY at $409.58000000000004
+18422561.404739186
+Buy 0.6102751266892315 amount of SPY at $409.58000000000004
+Sell 0.9154126900338472 amount of SPY at $409.58500000000004
+18422561.445324842
+Buy 0.4577063450169236 amount of SPY at $409.58500000000004
+Sell 0.6865595175253854 amount of SPY at $409.465
+18422561.38323053
+Buy 0.3432797587626927 amount of SPY at $409.465
+Sell 0.5149196381440391 amount of SPY at $409.41499999999996
+18422561.32643739
+Buy 0.25745981907201954 amount of SPY at $409.41499999999996
+Sell 0.3861897286080293 amount of SPY at $409.395
+18422561.29031703
+Buy 0.19309486430401465 amount of SPY at $409.395
+Sell 0.28964229645602196 amount of SPY at $409.41020000000003
+18422561.27665941
+Buy 0.14482114822801098 amount of SPY at $409.41020000000003
+Sell 0.2172317223420165 amount of SPY at $409.435
+18422561.275217947
+Buy 0.10861586117100824 amount of SPY at $409.435
+Sell 0.16292379175651237 amount of SPY at $409.40999999999997
+18422561.27042412
+Buy 0.08146189587825618 amount of SPY at $409.40999999999997
+Sell 0.12219284381738427 amount of SPY at $409.445
+18422561.272303957
+Buy 0.06109642190869213 amount of SPY at $409.445
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0916446328630382 amount of SPY at $409.3
+Sell 0.1374669492945573 amount of SPY at $409.4
+18422561.2737021
+Buy 0.06873347464727865 amount of SPY at $409.4
+Buy 0.10310021197091798 amount of SPY at $409.255
+Buy 0.15465031795637696 amount of SPY at $409.25
+Buy 0.23197547693456544 amount of SPY at $409.23
+Buy 0.34796321540184816 amount of SPY at $409.20000000000005
+Buy 0.5219448231027722 amount of SPY at $409.255
+Sell 0.7829172346541584 amount of SPY at $409.33000000000004
+18422561.331025742
+Buy 0.3914586173270792 amount of SPY at $409.33000000000004
+Sell 0.5871879259906188 amount of SPY at $409.465
+18422561.438957933
+Sell 0.2935939629953094 amount of SPY at $409.48
+18422561.49732794
+Sell 0.1467969814976547 amount of SPY at $409.52
+18422561.53238482
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07339849074882734 amount of SPY at $409.21000000000004
+Buy 0.11009773612324102 amount of SPY at $409.15
+Sell 0.16514660418486152 amount of SPY at $409.315
+18422561.547803055
+Buy 0.08257330209243076 amount of SPY at $409.315
+Sell 0.12385995313864614 amount of SPY at $409.4
+18422561.56604027
+Buy 0.06192997656932307 amount of SPY at $409.4
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0928949648539846 amount of SPY at $409.19
+Buy 0.1393424472809769 amount of SPY at $409.22
+Buy 0.20901367092146533 amount of SPY at $409.245
+Sell 0.31352050638219797 amount of SPY at $409.38
+18422561.607381817
+Buy 0.15676025319109899 amount of SPY at $409.38
+Sell 0.23514037978664848 amount of SPY at $409.515
+18422561.659796543
+Sell 0.11757018989332424 amount of SPY at $409.62
+18422561.698348776
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05878509494666212 amount of SPY at $409.265
+Buy 0.08817764241999318 amount of SPY at $409.21500000000003
+Buy 0.13226646362998978 amount of SPY at $409.275
+Buy 0.19839969544498468 amount of SPY at $409.23
+Buy 0.297599543167477 amount of SPY at $409.23
+Buy 0.4463993147512155 amount of SPY at $409.11
+Buy 0.6695989721268233 amount of SPY at $409.04499999999996
+Buy 1.004398458190235 amount of SPY at $409.09000000000003
+Buy 1.5065976872853524 amount of SPY at $409.1
+Buy 2.2598965309280286 amount of SPY at $409.04
+Buy 3.389844796392043 amount of SPY at $409.0
+Buy 5.084767194588064 amount of SPY at $408.96000000000004
+Buy 7.627150791882096 amount of SPY at $408.985
+Buy 11.440726187823145 amount of SPY at $408.975
+Buy 17.161089281734718 amount of SPY at $408.91
+Buy 25.741633922602077 amount of SPY at $409.03
+Sell 38.612450883903115 amount of SPY at $409.02
+18422562.843621355
+Buy 19.306225441951558 amount of SPY at $409.02
+Buy 28.959338162927338 amount of SPY at $408.96000000000004
+Buy 43.43900724439101 amount of SPY at $408.86
+Buy 65.15851086658651 amount of SPY at $408.90999999999997
+Buy 97.73776629987977 amount of SPY at $408.87
+Buy 146.60664944981966 amount of SPY at $408.8
+Buy 219.90997417472948 amount of SPY at $408.87
+Sell 329.8649612620942 amount of SPY at $408.9
+18422571.71039309
+Buy 164.9324806310471 amount of SPY at $408.9
+Buy 247.39872094657065 amount of SPY at $408.82
+Sell 371.098081419856 amount of SPY at $408.845
+18422565.629333317
+Buy 185.549040709928 amount of SPY at $408.845
+Buy 278.323561064892 amount of SPY at $408.8
+Sell 417.485341597338 amount of SPY at $408.91
+18422595.98763076
+Buy 208.742670798669 amount of SPY at $408.91
+Sell 313.1140061980035 amount of SPY at $408.905
+18422609.601209447
+Buy 156.55700309900175 amount of SPY at $408.905
+Sell 234.83550464850262 amount of SPY at $408.95
+18422626.975596502
+Buy 117.41775232425131 amount of SPY at $408.95
+Sell 176.12662848637697 amount of SPY at $408.865
+18422620.692026608
+Buy 88.06331424318849 amount of SPY at $408.865
+Sell 132.09497136478274 amount of SPY at $408.91
+18422623.49451537
+Buy 66.04748568239137 amount of SPY at $408.91
+Sell 99.07122852358705 amount of SPY at $408.9
+18422623.90504747
+Buy 49.535614261793526 amount of SPY at $408.9
+Sell 74.3034213926903 amount of SPY at $408.805
+18422617.051488485
+Buy 37.15171069634515 amount of SPY at $408.805
+Sell 55.72756604451772 amount of SPY at $408.805
+18422613.62470899
+Buy 27.86378302225886 amount of SPY at $408.805
+Sell 41.79567453338829 amount of SPY at $408.725
+18422608.567665283
+Buy 20.897837266694147 amount of SPY at $408.725
+Sell 31.34675590004122 amount of SPY at $408.8
+18422608.390150122
+Buy 15.67337795002061 amount of SPY at $408.8
+Sell 23.510066925030916 amount of SPY at $408.79
+18422608.066291872
+Buy 11.755033462515458 amount of SPY at $408.79
+Sell 17.632550193773188 amount of SPY at $408.89
+18422609.667617768
+Buy 8.816275096886594 amount of SPY at $408.89
+Sell 13.224412645329892 amount of SPY at $408.9
+18422610.600524843
+Buy 6.612206322664946 amount of SPY at $408.9
+Sell 9.918309483997419 amount of SPY at $408.95
+18422611.562893853
+Buy 4.959154741998709 amount of SPY at $408.95
+Sell 7.438732112998064 amount of SPY at $408.89
+18422611.59775443
+Buy 3.719366056499032 amount of SPY at $408.89
+Sell 5.579049084748548 amount of SPY at $408.93
+18422611.838346682
+Buy 2.789524542374274 amount of SPY at $408.93
+Sell 4.184286813561411 amount of SPY at $408.90999999999997
+18422611.874957073
+Buy 2.0921434067807057 amount of SPY at $408.90999999999997
+Sell 3.1382151101710587 amount of SPY at $408.94
+18422611.987408724
+Buy 1.5691075550855293 amount of SPY at $408.94
+Sell 2.353661332628294 amount of SPY at $408.995
+18422612.17308592
+Buy 1.176830666314147 amount of SPY at $408.995
+Sell 1.7652459994712206 amount of SPY at $408.995
+18422612.26592452
+Buy 0.8826229997356103 amount of SPY at $408.995
+Sell 1.3239344996034155 amount of SPY at $409.03999999999996
+18422612.371920872
+Sell 0.6619672498017077 amount of SPY at $409.07
+18422612.444778066
+Sell 0.33098362490085387 amount of SPY at $409.08
+18422612.484516498
+Sell 0.16549181245042693 amount of SPY at $409.01
+18422612.492801286
+Buy 0.08274590622521347 amount of SPY at $409.01
+Sell 0.1241188593378202 amount of SPY at $409.045
+18422612.50128784
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0620594296689101 amount of SPY at $408.72
+Buy 0.09308914450336515 amount of SPY at $408.57
+Buy 0.13963371675504774 amount of SPY at $408.475
+Buy 0.2094505751325716 amount of SPY at $408.45
+Buy 0.3141758626988574 amount of SPY at $408.465
+Buy 0.4712637940482861 amount of SPY at $408.49995
+Buy 0.7068956910724291 amount of SPY at $408.44
+Buy 1.0603435366086438 amount of SPY at $408.52
+Buy 1.5905153049129657 amount of SPY at $408.49
+Buy 2.3857729573694484 amount of SPY at $408.475
+Buy 3.5786594360541724 amount of SPY at $408.46500000000003
+Buy 5.3679891540812585 amount of SPY at $408.445
+Buy 8.051983731121888 amount of SPY at $408.38
+Buy 12.077975596682833 amount of SPY at $408.47
+Buy 18.11696339502425 amount of SPY at $408.38
+Buy 27.175445092536375 amount of SPY at $408.44
+Buy 40.76316763880456 amount of SPY at $408.46500000000003
+Buy 61.14475145820684 amount of SPY at $408.47
+Sell 91.71712718731027 amount of SPY at $408.46
+18422613.261151463
+Buy 45.858563593655134 amount of SPY at $408.46
+Sell 68.7878453904827 amount of SPY at $408.5
+18422616.39259709
+Buy 34.39392269524135 amount of SPY at $408.5
+Sell 51.59088404286203 amount of SPY at $408.5
+18422617.958319902
+Buy 25.795442021431015 amount of SPY at $408.5
+Sell 38.69316303214652 amount of SPY at $408.5
+18422618.74118131
+Buy 19.34658151607326 amount of SPY at $408.5
+Sell 29.019872274109893 amount of SPY at $408.5
+18422619.132612012
+Buy 14.509936137054947 amount of SPY at $408.5
+Sell 21.76490420558242 amount of SPY at $408.5
+18422619.328327365
+Buy 10.88245210279121 amount of SPY at $408.5
+Sell 16.323678154186815 amount of SPY at $408.5
+18422619.42618504
+Buy 8.161839077093408 amount of SPY at $408.5
+Sell 12.242758615640112 amount of SPY at $408.6
+18422620.69938974
+Buy 6.121379307820056 amount of SPY at $408.6
+Sell 9.182068961730083 amount of SPY at $408.7
+18422622.254198987
+Sell 4.591034480865042 amount of SPY at $408.775
+18422623.375931196
+Sell 2.295517240432521 amount of SPY at $408.975
+18422624.39590075
+Sell 1.1477586202162604 amount of SPY at $409.325
+18422625.307601042
+Sell 0.5738793101081302 amount of SPY at $409.475
+18422625.849533085
+Sell 0.2869396550540651 amount of SPY at $409.55
+18422626.14201958
+Sell 0.14346982752703255 amount of SPY at $409.625
+18422626.299023066
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07173491376351628 amount of SPY at $410.04
+Buy 0.10760237064527442 amount of SPY at $410.04
+Buy 0.16140355596791162 amount of SPY at $410.0
+Buy 0.24210533395186742 amount of SPY at $409.805
+Buy 0.36315800092780115 amount of SPY at $409.68
+Buy 0.5447370013917017 amount of SPY at $409.925
+Buy 0.8171055020875525 amount of SPY at $410.0
+Buy 1.2256582531313287 amount of SPY at $409.51
+Buy 1.8384873796969932 amount of SPY at $409.505
+Buy 2.75773106954549 amount of SPY at $409.745
+Sell 4.136596604318235 amount of SPY at $410.19
+18422628.395852808
+Buy 2.0682983021591177 amount of SPY at $409.755
+Buy 3.1024474532386765 amount of SPY at $409.63
+Buy 4.653671179858015 amount of SPY at $409.71
+Buy 6.980506769787022 amount of SPY at $409.5
+Buy 10.470760154680534 amount of SPY at $409.5
+Buy 15.7061402320208 amount of SPY at $409.5
+Buy 23.5592103480312 amount of SPY at $409.5
+Buy 35.3388155220468 amount of SPY at $409.5
+Buy 53.0082232830702 amount of SPY at $409.54499999999996
+Buy 79.5123349246053 amount of SPY at $409.49
+Sell 119.26850238690795 amount of SPY at $409.89
+18422672.78273184
+Sell 59.63425119345398 amount of SPY at $409.92
+18422696.76519889
+Buy 29.81712559672699 amount of SPY at $409.37
+Buy 44.725688395090486 amount of SPY at $409.31
+Buy 67.08853259263573 amount of SPY at $409.01
+Sell 100.6327988889536 amount of SPY at $409.9
+18422759.11010327
+Sell 50.3163994444768 amount of SPY at $409.94500000000005
+18422792.54679343
+Sell 25.1581997222384 amount of SPY at $410.05
+18422811.906749483
+Sell 12.5790998611192 amount of SPY at $410.085
+18422822.026996005
+Sell 6.2895499305596 amount of SPY at $410.19
+18422827.747522008
+Sell 3.1447749652798 amount of SPY at $410.09
+18422830.293307513
+Sell 1.5723874826399 amount of SPY at $410.16
+18422831.67626739
+Sell 0.78619374131995 amount of SPY at $410.395
+18422832.552502856
+Sell 0.393096870659975 amount of SPY at $410.45
+18422833.012240916
+Sell 0.1965484353299875 amount of SPY at $410.45
+18422833.242109947
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.09827421766499375 amount of SPY at $411.435
+Buy 0.1474113264974906 amount of SPY at $411.44
+Buy 0.22111698974623592 amount of SPY at $411.05
+Buy 0.33167548461935387 amount of SPY at $411.355
+Buy 0.49751322692903077 amount of SPY at $411.33
+Buy 0.7462698403935462 amount of SPY at $411.5
+Buy 1.1194047605903192 amount of SPY at $411.48
+Sell 1.679107140885479 amount of SPY at $411.76
+18422834.031696968
+Sell 0.8395535704427395 amount of SPY at $411.75
+18422834.41809494
+Sell 0.41977678522136974 amount of SPY at $411.81
+18422834.636480536
+Sell 0.20988839261068487 amount of SPY at $411.83
+18422834.7498711
+Sell 0.10494419630534244 amount of SPY at $411.85
+18422834.808665268
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05247209815267122 amount of SPY at $411.55
+Buy 0.07870814722900682 amount of SPY at $411.6
+Buy 0.11806222084351023 amount of SPY at $411.5
+Buy 0.17709333126526533 amount of SPY at $411.5
+Buy 0.26563999689789797 amount of SPY at $411.31
+Buy 0.39845999534684695 amount of SPY at $411.295
+Buy 0.5976899930202704 amount of SPY at $411.26
+Buy 0.8965349895304056 amount of SPY at $411.42
+Buy 1.3448024842956083 amount of SPY at $411.405
+Buy 2.0172037264434124 amount of SPY at $411.34
+Buy 3.0258055896651186 amount of SPY at $411.38
+Buy 4.538708384497678 amount of SPY at $411.38
+Buy 6.808062576746517 amount of SPY at $411.36
+Buy 10.212093865119776 amount of SPY at $411.28
+Buy 15.318140797679664 amount of SPY at $411.385
+Sell 22.977211196519498 amount of SPY at $411.57
+18422839.756329894
+Sell 11.488605598259749 amount of SPY at $411.475
+18422841.138744675
+Buy 5.7443027991298745 amount of SPY at $411.475
+Sell 8.61645419869481 amount of SPY at $411.5
+18422842.04536342
+Buy 4.308227099347405 amount of SPY at $411.5
+Sell 6.462340649021108 amount of SPY at $411.48
+18422842.36942598
+Buy 3.231170324510554 amount of SPY at $411.48
+Sell 4.846755486765831 amount of SPY at $411.57500000000005
+18422842.99189903
+Sell 2.4233777433829156 amount of SPY at $411.6
+18422843.363719996
+Sell 1.2116888716914578 amount of SPY at $411.52
+18422843.45269537
+Buy 0.6058444358457289 amount of SPY at $411.52
+Buy 0.9087666537685933 amount of SPY at $411.155
+Buy 1.36314998065289 amount of SPY at $411.20000000000005
+Buy 2.0447249709793347 amount of SPY at $411.135
+Buy 3.067087456469002 amount of SPY at $411.06
+Buy 4.600631184703503 amount of SPY at $411.05499999999995
+Buy 6.900946777055255 amount of SPY at $411.0
+Buy 10.351420165582883 amount of SPY at $411.11
+Buy 15.527130248374325 amount of SPY at $411.225
+Buy 23.290695372561487 amount of SPY at $411.14
+Sell 34.93604305884223 amount of SPY at $411.41
+18422852.838629782
+Sell 17.468021529421115 amount of SPY at $411.53
+18422859.627759572
+Sell 8.734010764710558 amount of SPY at $411.685
+18422864.376096137
+Sell 4.367005382355279 amount of SPY at $411.74
+18422866.990449715
+Sell 2.1835026911776394 amount of SPY at $411.80499999999995
+18422868.43955418
+Sell 1.0917513455888197 amount of SPY at $411.795
+18422869.1531889
+Sell 0.5458756727944098 amount of SPY at $411.96500000000003
+18422869.602805123
+Sell 0.2729378363972049 amount of SPY at $412.025
+18422869.843989506
+Sell 0.13646891819860246 amount of SPY at $412.02
+18422869.96389935
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06823445909930123 amount of SPY at $411.84000000000003
+Buy 0.10235168864895185 amount of SPY at $411.78499999999997
+Buy 0.15352753297342778 amount of SPY at $411.73
+Buy 0.23029129946014165 amount of SPY at $411.70000000000005
+Buy 0.3454369491902125 amount of SPY at $411.70500000000004
+Buy 0.5181554237853188 amount of SPY at $411.685
+Buy 0.7772331356779781 amount of SPY at $411.69
+Buy 1.1658497035169673 amount of SPY at $411.69
+Buy 1.748774555275451 amount of SPY at $411.745
+Buy 2.6231618329131763 amount of SPY at $411.69500000000005
+Buy 3.9347427493697644 amount of SPY at $411.6755
+Buy 5.902114124054647 amount of SPY at $411.67
+Buy 8.853171186081969 amount of SPY at $411.655
+Buy 13.279756779122954 amount of SPY at $411.645
+Buy 19.91963516868443 amount of SPY at $411.555
+Buy 29.879452753026644 amount of SPY at $411.56
+Buy 44.81917912953997 amount of SPY at $411.57
+Buy 67.22876869430995 amount of SPY at $411.595
+Buy 100.84315304146492 amount of SPY at $411.58
+Sell 151.26472956219737 amount of SPY at $411.83000000000004
+18422906.36515668
+Sell 75.63236478109869 amount of SPY at $411.95000000000005
+18422933.64166912
+Sell 37.81618239054934 amount of SPY at $411.92
+18422946.145439867
+Sell 18.90809119527467 amount of SPY at $411.875
+18422951.54646114
+Sell 9.454045597637336 amount of SPY at $411.89
+18422954.388782457
+Sell 4.727022798818668 amount of SPY at $411.9
+18422955.857213344
+Sell 2.363511399409334 amount of SPY at $411.885
+18422956.55597612
+Sell 1.181755699704667 amount of SPY at $411.905
+18422956.928992618
+Sell 0.5908778498523335 amount of SPY at $411.78999999999996
+18422957.047549915
+Sell 0.29543892492616675 amount of SPY at $411.775
+18422957.10239698
+Sell 0.14771946246308337 amount of SPY at $411.75
+18422957.126127526
+Buy 0.07385973123154169 amount of SPY at $411.75
+Sell 0.11078959684731253 amount of SPY at $411.775
+18422957.140762538
+Buy 0.055394798423656265 amount of SPY at $411.775
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0830921976354844 amount of SPY at $411.735
+Sell 0.12463829645322659 amount of SPY at $411.855
+18422957.15971295
+Buy 0.062319148226613295 amount of SPY at $411.855
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.09347872233991994 amount of SPY at $411.735
+Buy 0.1402180835098799 amount of SPY at $411.74
+Sell 0.21032712526481986 amount of SPY at $411.78
+18422957.167084888
+Buy 0.10516356263240993 amount of SPY at $411.78
+Sell 0.1577453439486149 amount of SPY at $411.77
+18422957.169193402
+Buy 0.07887267197430745 amount of SPY at $411.77
+Sell 0.11830900796146117 amount of SPY at $411.7652
+18422957.169679776
+Buy 0.059154503980730584 amount of SPY at $411.7652
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08873175597109588 amount of SPY at $411.64
+Buy 0.1330976339566438 amount of SPY at $411.555
+Buy 0.19964645093496572 amount of SPY at $411.485
+Buy 0.2994696764024486 amount of SPY at $411.38
+Buy 0.4492045146036729 amount of SPY at $411.265
+Buy 0.6738067719055093 amount of SPY at $411.125
+Buy 1.010710157858264 amount of SPY at $411.115
+Buy 1.5160652367873961 amount of SPY at $411.125
+Buy 2.274097855181094 amount of SPY at $411.15
+Buy 3.4111467827716413 amount of SPY at $411.27
+Buy 5.116720174157462 amount of SPY at $411.155
+Buy 7.675080261236193 amount of SPY at $411.185
+Sell 11.51262039185429 amount of SPY at $411.47
+18422960.350259423
+Sell 5.756310195927145 amount of SPY at $411.425
+18422961.681515288
+Sell 2.8781550979635724 amount of SPY at $411.475
+18422962.491050974
+Sell 1.4390775489817862 amount of SPY at $411.42499999999995
+18422962.82386494
+Buy 0.7195387744908931 amount of SPY at $411.32
+Buy 1.0793081617363396 amount of SPY at $411.245
+Buy 1.6189622426045094 amount of SPY at $411.31495
+Sell 2.428443363906764 amount of SPY at $411.35005
+18422963.032257013
+Buy 1.214221681953382 amount of SPY at $411.35005
+Sell 1.821332522930073 amount of SPY at $411.365
+18422963.16368197
+Buy 0.9106662614650365 amount of SPY at $411.365
+Buy 1.3659993921975548 amount of SPY at $411.235
+Buy 2.0489990882963323 amount of SPY at $411.005
+Buy 3.0734986324444984 amount of SPY at $411.03499999999997
+Buy 4.610247948666748 amount of SPY at $411.20000000000005
+Buy 6.915371923000122 amount of SPY at $411.2
+Sell 10.373057884500183 amount of SPY at $411.30499999999995
+18422964.522611685
+Buy 5.186528942250091 amount of SPY at $411.30499999999995
+Sell 7.7797934133751365 amount of SPY at $411.33505
+18422965.435859334
+Buy 3.8898967066875683 amount of SPY at $411.33505
+Sell 5.834845060031352 amount of SPY at $411.33
+18422965.86301719
+Buy 2.917422530015676 amount of SPY at $411.33
+Sell 4.376133795023514 amount of SPY at $411.51
+18422966.864300203
+Sell 2.188066897511757 amount of SPY at $411.435
+18422967.200836692
+Sell 1.0940334487558785 amount of SPY at $411.325
+18422967.248761255
+Buy 0.5470167243779392 amount of SPY at $411.325
+Sell 0.8205250865669089 amount of SPY at $411.3
+18422967.252210412
+Buy 0.41026254328345446 amount of SPY at $411.3
+Buy 0.6153938149251816 amount of SPY at $411.09000000000003
+Buy 0.9230907223877725 amount of SPY at $411.09000000000003
+Buy 1.3846360835816587 amount of SPY at $411.155
+Sell 2.076954125372488 amount of SPY at $411.315
+18422967.547016293
+Sell 1.038477062686244 amount of SPY at $411.275
+18422967.65288015
+Buy 0.519238531343122 amount of SPY at $411.275
+Sell 0.778857797014683 amount of SPY at $411.255
+18422967.690234926
+Buy 0.3894288985073415 amount of SPY at $411.255
+Sell 0.5841433477610123 amount of SPY at $411.43
+18422967.811137397
+Sell 0.29207167388050614 amount of SPY at $411.33
+18422967.842381466
+Sell 0.14603583694025307 amount of SPY at $411.45000000000005
+18422967.875527803
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.07301791847012654 amount of SPY at $411.18
+Buy 0.1095268777051898 amount of SPY at $410.92
+Buy 0.1642903165577847 amount of SPY at $411.065
+Buy 0.24643547483667705 amount of SPY at $411.07000000000005
+Buy 0.3696532122550156 amount of SPY at $410.69
+Buy 0.5544798183825234 amount of SPY at $410.33
+Buy 0.8317197275737851 amount of SPY at $410.31
+Buy 1.2475795913606778 amount of SPY at $410.12
+Buy 1.8713693870410166 amount of SPY at $409.77995
+Buy 2.807054080561525 amount of SPY at $409.53999999999996
+Buy 4.210581120842288 amount of SPY at $409.45000000000005
+Buy 6.315871681263431 amount of SPY at $409.365
+Buy 9.473807521895147 amount of SPY at $409.235
+Buy 14.21071128284272 amount of SPY at $409.165
+Buy 21.316066924264078 amount of SPY at $409.235
+Buy 31.974100386396117 amount of SPY at $409.26
+Buy 47.961150579594175 amount of SPY at $408.50495
+Buy 71.94172586939126 amount of SPY at $408.2
+Buy 107.9125888040869 amount of SPY at $408.52
+Buy 161.86888320613033 amount of SPY at $408.29
+Buy 242.8033248091955 amount of SPY at $408.095
+Sell 364.20498721379323 amount of SPY at $408.91499999999996
+18423155.5665576
+Sell 182.10249360689662 amount of SPY at $408.9267
+18423251.542671673
+Buy 91.05124680344831 amount of SPY at $408.03005
+Buy 136.57687020517247 amount of SPY at $407.5245
+Buy 204.86530530775872 amount of SPY at $407.54499999999996
+Buy 307.2979579616381 amount of SPY at $407.775
+Sell 460.9469369424571 amount of SPY at $408.91999999999996
+18423751.50570342
+Sell 230.47346847122856 amount of SPY at $409.252
+18424078.004410826
+Sell 115.23673423561428 amount of SPY at $410.015
+18424329.17939275
+Sell 57.61836711780714 amount of SPY at $410.40999999999997
+18424477.526138727
+Sell 28.80918355890357 amount of SPY at $410.135
+18424543.776986234
+Buy 14.404591779451785 amount of SPY at $407.545
+Sell 21.606887669177677 amount of SPY at $408.90999999999997
+18424569.08791895
+Sell 10.803443834588839 amount of SPY at $409.0001
+18424582.716775596
+Sell 5.401721917294419 amount of SPY at $409.23
+18424590.77305979
+Sell 2.7008609586472097 amount of SPY at $409.255
+18424594.868723407
+Sell 1.3504304793236048 amount of SPY at $409.21
+18424596.855785847
+Sell 0.6752152396618024 amount of SPY at $409.33
+18424597.930342894
+Sell 0.3376076198309012 amount of SPY at $409.25
+18424598.440612808
+Sell 0.1688038099154506 amount of SPY at $409.26925
+18424598.698997237
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0844019049577253 amount of SPY at $411.3
+Buy 0.12660285743658795 amount of SPY at $411.40999999999997
+Buy 0.18990428615488192 amount of SPY at $411.49005
+Buy 0.2848564292323229 amount of SPY at $411.195
+Buy 0.42728464384848436 amount of SPY at $411.20000000000005
+Buy 0.6409269657727266 amount of SPY at $411.4
+Buy 0.9613904486590898 amount of SPY at $411.43499999999995
+Buy 1.4420856729886347 amount of SPY at $411.155
+Buy 2.163128509482952 amount of SPY at $410.96
+Buy 3.2446927642244283 amount of SPY at $411.02234999999996
+Buy 4.8670391463366425 amount of SPY at $411.13
+Buy 7.300558719504964 amount of SPY at $411.1925
+Sell 10.950838079257446 amount of SPY at $411.705
+18424605.077879112
+Sell 5.475419039628723 amount of SPY at $411.97
+18424609.718306094
+Sell 2.7377095198143615 amount of SPY at $412.23995
+18424612.777564272
+Sell 1.3688547599071808 amount of SPY at $412.28
+18424614.362015992
+Sell 0.6844273799535904 amount of SPY at $412.3
+18424615.1679304
+Sell 0.3422136899767952 amount of SPY at $412.615
+18424615.67868492
+Sell 0.1711068449883976 amount of SPY at $412.76
+18424615.958872672
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0855534224941988 amount of SPY at $413.98749999999995
+Sell 0.1283301337412982 amount of SPY at $414.30105000000003
+18424616.24422129
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0641650668706491 amount of SPY at $414.13995
+Buy 0.09624760030597365 amount of SPY at $413.97
+Buy 0.14437140045896046 amount of SPY at $413.78999999999996
+Buy 0.2165571006884407 amount of SPY at $413.8385
+Buy 0.32483565103266104 amount of SPY at $413.79499999999996
+Buy 0.48725347654899154 amount of SPY at $414.03
+Sell 0.7308802148234873 amount of SPY at $414.4
+18424616.715517387
+Buy 0.36544010741174365 amount of SPY at $413.95000000000005
+Sell 0.5481601611176155 amount of SPY at $414.23
+18424616.940202232
+Sell 0.2740800805588077 amount of SPY at $414.40819999999997
+18424617.101385728
+Sell 0.13704004027940386 amount of SPY at $414.33495000000005
+18424617.17193929
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06852002013970193 amount of SPY at $414.62750000000005
+Sell 0.1027800302095529 amount of SPY at $414.93
+18424617.258352563
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05139001510477645 amount of SPY at $415.25
+cannot sell stock at amount less than 0.1
+Buy 0.07708502265716467 amount of SPY at $415.0825
+Buy 0.11562753398574702 amount of SPY at $415.095
+Buy 0.17344130097862054 amount of SPY at $415.2825
+Sell 0.2601619514679308 amount of SPY at $415.4425
+18424617.380683765
+Sell 0.1300809757339654 amount of SPY at $415.61
+18424617.46363793
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0650404878669827 amount of SPY at $415.28025
+Buy 0.09756073180047406 amount of SPY at $415.44225
+Sell 0.14634109770071108 amount of SPY at $415.56
+18424617.516704414
+Buy 0.07317054885035554 amount of SPY at $415.56
+Sell 0.1097558232755333 amount of SPY at $415.63750000000005
+18424617.55174373
+Buy 0.05487791163776665 amount of SPY at $415.63750000000005
+cannot sell stock at amount less than 0.1
+Buy 0.08231686745664998 amount of SPY at $415.365
+Buy 0.12347530118497498 amount of SPY at $415.22249999999997
+Buy 0.18521295177746247 amount of SPY at $415.005
+Buy 0.2778194276661937 amount of SPY at $414.90999999999997
+Buy 0.4167291414992906 amount of SPY at $414.725
+Buy 0.6250937122489358 amount of SPY at $414.83
+Buy 0.9376405683734037 amount of SPY at $414.855
+Sell 1.4064608525601057 amount of SPY at $415.5
+18424618.381708365
+Sell 0.7032304262800528 amount of SPY at $415.55
+18424618.8318522
+Sell 0.3516152131400264 amount of SPY at $415.45500000000004
+18424619.023520675
+Sell 0.1758076065700132 amount of SPY at $415.58000000000004
+18424619.14133086
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0879038032850066 amount of SPY at $415.5362
+Buy 0.13185570492750992 amount of SPY at $415.1755
+Buy 0.19778355739126488 amount of SPY at $415.1875
+Buy 0.29667533608689733 amount of SPY at $415.195
+Buy 0.445013004130346 amount of SPY at $415.41495
+Sell 0.667519506195519 amount of SPY at $415.7863
+18424619.49918786
+Sell 0.3337597530977595 amount of SPY at $415.87
+18424619.706052054
+Sell 0.16687987654887976 amount of SPY at $415.75
+18424619.789458565
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08343993827443988 amount of SPY at $416.895
+Buy 0.12515990741165983 amount of SPY at $417.055
+Buy 0.18773986111748975 amount of SPY at $416.8
+Buy 0.2816097916762346 amount of SPY at $416.805
+Buy 0.42241468751435196 amount of SPY at $416.82
+Buy 0.6336220312715279 amount of SPY at $416.905
+Buy 0.9504330469072919 amount of SPY at $416.985
+Buy 1.425649570360938 amount of SPY at $416.98
+Buy 2.138474355541407 amount of SPY at $416.96
+Sell 3.2077115333121107 amount of SPY at $417.225
+18424620.83663508
+Sell 1.6038557666560553 amount of SPY at $417.31
+18424621.496551074
+Sell 0.8019278833280277 amount of SPY at $417.37
+18424621.874624744
+Sell 0.40096394166401383 amount of SPY at $417.46500000000003
+18424622.101753153
+Sell 0.20048197083200692 amount of SPY at $417.435
+18424622.2093029
+Sell 0.10024098541600346 amount of SPY at $417.35995
+18424622.255554687
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05012049270800173 amount of SPY at $417.46000000000004
+cannot sell stock at amount less than 0.1
+Buy 0.0751807390620026 amount of SPY at $417.46500000000003
+Buy 0.11277110859300389 amount of SPY at $417.45
+Buy 0.16915666288950584 amount of SPY at $417.45
+Sell 0.2537349943342588 amount of SPY at $417.47
+18424622.287454173
+Buy 0.1268674971671294 amount of SPY at $417.47
+Sell 0.19030124575069407 amount of SPY at $417.49
+18424622.307209942
+Buy 0.09515062287534704 amount of SPY at $417.49
+Sell 0.14272593431302055 amount of SPY at $417.47
+18424622.314233307
+Buy 0.07136296715651028 amount of SPY at $417.47
+Sell 0.10704445073476541 amount of SPY at $417.57000000000005
+18424622.328449436
+Buy 0.05352222536738271 amount of SPY at $417.57000000000005
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.08028333805107406 amount of SPY at $418.065
+Buy 0.12042500707661108 amount of SPY at $418.03999999999996
+Buy 0.18063751061491662 amount of SPY at $418.03
+Buy 0.27095626592237493 amount of SPY at $417.95
+Buy 0.40643439888356236 amount of SPY at $417.85
+Buy 0.6096515983253435 amount of SPY at $417.83
+Buy 0.9144773974880154 amount of SPY at $417.88
+Buy 1.371716096232023 amount of SPY at $417.875
+Buy 2.0575741443480347 amount of SPY at $417.90999999999997
+Buy 3.086361216522052 amount of SPY at $417.96000000000004
+Buy 4.629541824783078 amount of SPY at $417.92
+Buy 6.9443127371746165 amount of SPY at $417.96000000000004
+Buy 10.416469105761925 amount of SPY at $417.91999999999996
+Buy 15.624703658642886 amount of SPY at $417.87
+Sell 23.43705548796433 amount of SPY at $417.94
+18424623.096456997
+Buy 11.718527743982165 amount of SPY at $417.94
+Sell 17.577791615973247 amount of SPY at $417.9
+18424622.777349114
+Buy 8.788895807986624 amount of SPY at $417.9
+Sell 13.183343711979935 amount of SPY at $417.875
+18424622.28821158
+Buy 6.591671855989968 amount of SPY at $417.875
+Sell 9.887507783984951 amount of SPY at $417.93
+18424622.587455742
+Buy 4.9437538919924755 amount of SPY at $417.93
+Sell 7.415630837988713 amount of SPY at $417.93
+18424622.73707782
+Buy 3.7078154189943566 amount of SPY at $417.93
+Sell 5.5617231284915345 amount of SPY at $418.01
+18424623.25682671
+Buy 2.7808615642457672 amount of SPY at $418.01
+Sell 4.17129234636865 amount of SPY at $418.0
+18424623.474988233
+Buy 2.085646173184325 amount of SPY at $418.0
+Sell 3.128469259776488 amount of SPY at $417.95
+18424623.42764553
+Buy 1.564234629888244 amount of SPY at $417.95
+Sell 2.346351944832366 amount of SPY at $417.96
+18424623.4274377
+Buy 1.173175972416183 amount of SPY at $417.96
+Sell 1.7597639586242746 amount of SPY at $417.895
+18424623.31294913
+Buy 0.8798819793121373 amount of SPY at $417.895
+Sell 1.319822968968206 amount of SPY at $417.855
+18424623.202911925
+Buy 0.659911484484103 amount of SPY at $417.855
+Sell 0.9898672267261545 amount of SPY at $417.92
+18424623.21223469
+Buy 0.49493361336307723 amount of SPY at $417.92
+Sell 0.7424004200446158 amount of SPY at $417.91
+18424623.20947207
+Buy 0.3712002100223079 amount of SPY at $417.91
+Sell 0.5568003150334618 amount of SPY at $417.93
+18424623.219226766
+Buy 0.2784001575167309 amount of SPY at $417.93
+Sell 0.41760023627509635 amount of SPY at $417.95
+18424623.232456118
+Buy 0.20880011813754817 amount of SPY at $417.95
+Sell 0.31320017720632226 amount of SPY at $418.03
+18424623.264126807
+Buy 0.15660008860316113 amount of SPY at $418.03
+Sell 0.2349001329047417 amount of SPY at $418.0
+18424623.272915147
+Buy 0.11745006645237085 amount of SPY at $418.0
+Sell 0.17617509967855627 amount of SPY at $417.98
+18424623.273785815
+Buy 0.08808754983927813 amount of SPY at $417.98
+Sell 0.1321313247589172 amount of SPY at $418.065
+18424623.28545231
+Buy 0.0660656623794586 amount of SPY at $418.065
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0990984935691879 amount of SPY at $417.93
+Buy 0.14864774035378187 amount of SPY at $417.91999999999996
+Buy 0.2229716105306728 amount of SPY at $417.9
+Buy 0.3344574157960092 amount of SPY at $417.9
+Buy 0.5016861236940138 amount of SPY at $417.90999999999997
+Buy 0.7525291855410207 amount of SPY at $417.92499999999995
+Buy 1.128793778311531 amount of SPY at $417.92
+Buy 1.6931906674672965 amount of SPY at $417.96500000000003
+Sell 2.5397860012009446 amount of SPY at $418.01
+18424623.47310613
+Buy 1.2698930006004723 amount of SPY at $418.01
+Sell 1.9048395009007084 amount of SPY at $417.96500000000003
+18424623.481215265
+Buy 0.9524197504503542 amount of SPY at $417.96500000000003
+Sell 1.4286296256755313 amount of SPY at $418.03499999999997
+18424623.585273907
+Buy 0.7143148128377657 amount of SPY at $418.03499999999997
+Sell 1.0714722192566484 amount of SPY at $417.98
+18424623.578372255
+Buy 0.5357361096283242 amount of SPY at $417.98
+Sell 0.8036041644424863 amount of SPY at $418.305
+18424623.83609278
+Sell 0.40180208222124314 amount of SPY at $418.07
+18424623.870529555
+Buy 0.20090104111062157 amount of SPY at $418.07
+Sell 0.30135156166593235 amount of SPY at $418.22
+18424623.932950675
+Sell 0.15067578083296618 amount of SPY at $418.245
+18424623.96792813
+cannot sell stock at amount less than 0.1
+Buy 0.07533789041648309 amount of SPY at $417.92
+Buy 0.11300683562472463 amount of SPY at $417.83000000000004
+Buy 0.16951025343708695 amount of SPY at $417.78
+Buy 0.25426538015563044 amount of SPY at $417.7
+Buy 0.38139807023344563 amount of SPY at $417.625
+Buy 0.5720971053501684 amount of SPY at $417.5
+Buy 0.8581456580252527 amount of SPY at $417.5
+Buy 1.2872184870378791 amount of SPY at $417.7
+Buy 1.9308277305568187 amount of SPY at $417.7
+Buy 2.896241595835228 amount of SPY at $417.68
+Buy 4.344362393752842 amount of SPY at $417.66
+Buy 6.516543590629263 amount of SPY at $417.58
+Sell 9.774815385943896 amount of SPY at $417.94
+18424626.93206936
+Sell 4.887407692971948 amount of SPY at $417.945
+18424628.438577015
+Sell 2.443703846485974 amount of SPY at $418.025
+18424629.38732715
+Sell 1.221851923242987 amount of SPY at $417.945
+18424629.763954062
+Sell 0.6109259616214935 amount of SPY at $417.78
+18424629.851464733
+Buy 0.30546298081074674 amount of SPY at $417.7
+Sell 0.4581944712161201 amount of SPY at $417.72
+18424629.87994692
+Buy 0.22909723560806006 amount of SPY at $417.72
+Buy 0.3436458534120901 amount of SPY at $417.675
+Buy 0.5154687801181351 amount of SPY at $417.63
+Buy 0.7732031701772026 amount of SPY at $417.63
+Buy 1.159804755265804 amount of SPY at $417.65
+Buy 1.739707132898706 amount of SPY at $417.66
+Sell 2.6095606993480587 amount of SPY at $417.7
+18424630.00050345
+Buy 1.3047803496740293 amount of SPY at $417.7
+Sell 1.957170524511044 amount of SPY at $417.71
+18424630.08035342
+Buy 0.978585262255522 amount of SPY at $417.71
+Buy 1.467877893383283 amount of SPY at $417.64
+Buy 2.2018168400749243 amount of SPY at $417.57
+Buy 3.3027252601123864 amount of SPY at $417.64
+Buy 4.95408789016858 amount of SPY at $417.52
+Buy 7.43113183525287 amount of SPY at $417.53
+Buy 11.146697752879305 amount of SPY at $417.5
+Buy 16.720046629318958 amount of SPY at $417.5
+Buy 25.080069943978437 amount of SPY at $417.47
+Buy 37.62010491596766 amount of SPY at $417.47
+Sell 56.43015737395149 amount of SPY at $417.5
+18424630.180513006
+Buy 28.215078686975744 amount of SPY at $417.5
+Buy 42.322618030463616 amount of SPY at $417.41
+Sell 63.483927045695424 amount of SPY at $417.5
+18424632.13511061
+Buy 31.741963522847712 amount of SPY at $417.5
+Sell 47.61294528427157 amount of SPY at $417.5
+18424633.11240941
+Buy 23.806472642135784 amount of SPY at $417.5
+Sell 35.709708963203674 amount of SPY at $417.5
+18424633.60105881
+Buy 17.854854481601837 amount of SPY at $417.5
+Buy 26.782281722402757 amount of SPY at $417.41
+Sell 40.173422583604136 amount of SPY at $417.5
+18424635.05058619
+Buy 20.086711291802068 amount of SPY at $417.5
+Sell 30.130066937703102 amount of SPY at $417.75
+18424643.307866614
+Sell 15.065033468851551 amount of SPY at $417.84
+18424648.792359836
+Sell 7.5325167344257755 amount of SPY at $417.87
+18424651.76058195
+Sell 3.7662583672128878 amount of SPY at $418.0
+18424653.734306596
+Sell 1.8831291836064439 amount of SPY at $417.84
+18424654.41986825
+Sell 0.9415645918032219 amount of SPY at $418.095
+18424655.002748046
+Sell 0.47078229590161097 amount of SPY at $417.97
+18424655.23534016
+Sell 0.23539114795080548 amount of SPY at $417.88
+18424655.33045101
+Sell 0.11769557397540274 amount of SPY at $418.19
+18424655.414492067
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05884778698770137 amount of SPY at $417.5
+Buy 0.08827168048155205 amount of SPY at $417.41999999999996
+Buy 0.1324075207223281 amount of SPY at $417.155
+Buy 0.19861128108349213 amount of SPY at $417.15
+Buy 0.2979169216252382 amount of SPY at $417.02
+Buy 0.4468753824378573 amount of SPY at $416.90999999999997
+Buy 0.6703130736567859 amount of SPY at $416.78
+Buy 1.005469610485179 amount of SPY at $416.78
+Buy 1.5082044157277685 amount of SPY at $416.58000000000004
+Buy 2.2623066235916527 amount of SPY at $416.36
+Buy 3.393459935387479 amount of SPY at $416.15999999999997
+Buy 5.090189903081218 amount of SPY at $416.01
+Buy 7.635284854621828 amount of SPY at $416.21
+Buy 11.452927281932741 amount of SPY at $416.25
+Sell 17.17939092289911 amount of SPY at $416.44
+18424658.205428172
+Sell 8.589695461449555 amount of SPY at $416.4
+18424659.257308405
+Buy 4.294847730724777 amount of SPY at $416.33
+Buy 6.442271596087166 amount of SPY at $416.30999999999995
+Buy 9.663407394130749 amount of SPY at $416.3
+Buy 14.495111091196122 amount of SPY at $416.33500000000004
+Buy 21.742666636794183 amount of SPY at $416.21000000000004
+Buy 32.613999955191275 amount of SPY at $416.155
+Buy 48.92099993278691 amount of SPY at $416.15
+Buy 73.38149989918037 amount of SPY at $416.19
+Buy 110.07224984877055 amount of SPY at $416.09
+Buy 165.10837477315584 amount of SPY at $415.885
+Buy 247.66256215973377 amount of SPY at $416.075
+Buy 371.49384323960066 amount of SPY at $416.13
+Buy 557.240764859401 amount of SPY at $416.1
+Buy 835.8611472891015 amount of SPY at $416.0
+Sell 1253.7917209336522 amount of SPY at $416.2
+18424831.03212312
+Buy 626.8958604668261 amount of SPY at $416.2
+Sell 940.3437907002392 amount of SPY at $416.28
+18424992.147033732
+Sell 470.1718953501196 amount of SPY at $416.21500000000003
+18425042.14331584
+Buy 235.0859476750598 amount of SPY at $416.21500000000003
+Sell 352.6289215125897 amount of SPY at $416.21500000000003
+18425067.141456895
+Buy 176.31446075629486 amount of SPY at $416.21500000000003
+Sell 264.47169113444227 amount of SPY at $416.19
+18425073.028735142
+Buy 132.23584556722113 amount of SPY at $416.19
+Sell 198.3537683508317 amount of SPY at $416.21
+18425079.939449634
+Buy 99.17688417541585 amount of SPY at $416.21
+Sell 148.76532626312377 amount of SPY at $416.16499999999996
+18425076.700367197
+Buy 74.38266313156188 amount of SPY at $416.16499999999996
+Buy 111.57399469734283 amount of SPY at $415.975
+Buy 167.36099204601425 amount of SPY at $415.905
+Buy 251.04148806902137 amount of SPY at $415.84
+Buy 376.56223210353204 amount of SPY at $415.92499999999995
+Buy 564.843348155298 amount of SPY at $415.9
+Buy 847.2650222329471 amount of SPY at $415.86
+Buy 1270.8975333494207 amount of SPY at $415.85
+Buy 1906.3463000241309 amount of SPY at $415.79
+Buy 2859.5194500361963 amount of SPY at $415.775
+Buy 4289.279175054295 amount of SPY at $415.88
+Buy 6433.918762581442 amount of SPY at $415.66499999999996
+Buy 9650.878143872163 amount of SPY at $415.78
+Buy 14476.317215808245 amount of SPY at $415.6
+Buy 21714.475823712368 amount of SPY at $415.6
+Buy 32571.71373556855 amount of SPY at $415.655
+Buy 48857.570603352826 amount of SPY at $415.71500000000003
+Buy 73286.35590502924 amount of SPY at $415.7
+Buy 109929.53385754387 amount of SPY at $415.65
+Buy 164894.3007863158 amount of SPY at $415.64
+Buy 247341.45117947372 amount of SPY at $415.59000000000003
+Buy 371012.1767692106 amount of SPY at $415.555
+Sell 556518.265153816 amount of SPY at $415.73
+18490927.439136427
+Buy 278259.132576908 amount of SPY at $415.73
+Sell 417388.698865362 amount of SPY at $415.83500000000004
+18567678.621901896
+Sell 208694.349432681 amount of SPY at $415.91
+18621706.289492078
+Sell 104347.1747163405 amount of SPY at $415.90999999999997
+18648720.123287164
+Sell 52173.58735817025 amount of SPY at $415.92999999999995
+18663270.51193187
+Sell 26086.793679085124 amount of SPY at $416.0
+18672371.78181176
+Sell 13043.396839542562 amount of SPY at $415.98
+18676661.54881491
+Sell 6521.698419771281 amount of SPY at $415.98
+18678806.43231649
+Sell 3260.8492098856404 amount of SPY at $416.03
+18680041.91652777
+Sell 1630.4246049428202 amount of SPY at $415.87
+18680398.79069662
+Sell 815.2123024714101 amount of SPY at $415.96
+18680650.59688827
+Sell 407.60615123570506 amount of SPY at $415.82
+18680719.435122922
+Sell 203.80307561785253 amount of SPY at $415.90999999999997
+18680772.196517054
+Buy 101.90153780892626 amount of SPY at $415.77
+Buy 152.8523067133894 amount of SPY at $415.61
+Buy 229.2784600700841 amount of SPY at $415.6
+Buy 343.91769010512616 amount of SPY at $415.71
+Buy 515.8765351576892 amount of SPY at $415.725
+Buy 773.8148027365338 amount of SPY at $415.78999999999996
+Sell 1160.7222041048008 amount of SPY at $415.855
+18680928.875844534
+Buy 580.3611020524004 amount of SPY at $415.855
+Sell 870.5416530786006 amount of SPY at $415.9
+18681046.389882665
+Buy 435.2708265393003 amount of SPY at $415.9
+Sell 652.9062398089504 amount of SPY at $415.91499999999996
+18681114.940495327
+Sell 326.4531199044752 amount of SPY at $415.96
+18681163.906192053
+Sell 163.2265599522376 amount of SPY at $415.96
+18681188.389040418
+Sell 81.6132799761188 amount of SPY at $416.03
+18681206.343394198
+Sell 40.8066399880594 amount of SPY at $416.03
+18681215.320571087
+Sell 20.4033199940297 amount of SPY at $416.09
+18681221.03335873
+Sell 10.20165999701485 amount of SPY at $416.08
+18681223.787735954
+Sell 5.100829998507425 amount of SPY at $415.88
+18681224.144758567
+Buy 2.5504149992537126 amount of SPY at $415.88
+Buy 3.825622498880569 amount of SPY at $415.655
+Buy 5.738433748320853 amount of SPY at $415.595
+Buy 8.60765062248128 amount of SPY at $415.49
+Buy 12.91147593372192 amount of SPY at $415.445
+Buy 19.367213900582883 amount of SPY at $415.29999999999995
+Buy 29.050820850874324 amount of SPY at $415.225
+Buy 43.57623127631149 amount of SPY at $415.20500000000004
+Buy 65.36434691446723 amount of SPY at $415.175
+Buy 98.04652037170085 amount of SPY at $415.19
+Buy 147.06978055755127 amount of SPY at $415.235
+Buy 220.6046708363269 amount of SPY at $414.96500000000003
+Buy 330.90700625449034 amount of SPY at $415.05
+Buy 496.3605093817355 amount of SPY at $415.025
+Buy 744.5407640726032 amount of SPY at $415.05
+Buy 1116.8111461089047 amount of SPY at $415.105
+Sell 1675.216719163357 amount of SPY at $415.1
+18681249.719574586
+Buy 837.6083595816785 amount of SPY at $415.1
+Sell 1256.4125393725178 amount of SPY at $415.19
+18681375.58411114
+Buy 628.2062696862589 amount of SPY at $415.19
+Sell 942.3094045293883 amount of SPY at $415.215
+18681462.074114528
+Buy 471.15470226469415 amount of SPY at $415.215
+Sell 706.7320533970412 amount of SPY at $415.15
+18681459.38153275
+Buy 353.3660266985206 amount of SPY at $415.15
+Sell 530.0490400477809 amount of SPY at $415.055
+18681407.68058306
+Buy 265.02452002389043 amount of SPY at $415.055
+Buy 397.53678003583565 amount of SPY at $414.95500000000004
+Buy 596.3051700537535 amount of SPY at $414.69
+Buy 894.4577550806302 amount of SPY at $414.565
+Buy 1341.6866326209454 amount of SPY at $414.53499999999997
+Buy 2012.529948931418 amount of SPY at $414.53999999999996
+Buy 3018.7949233971267 amount of SPY at $414.51
+Buy 4528.19238509569 amount of SPY at $414.56
+Buy 6792.288577643535 amount of SPY at $414.45500000000004
+Buy 10188.432866465302 amount of SPY at $414.49
+Buy 15282.649299697954 amount of SPY at $414.38
+Buy 22923.973949546933 amount of SPY at $414.26
+Buy 34385.9609243204 amount of SPY at $414.4
+Sell 51578.941386480605 amount of SPY at $414.62
+18692550.744350277
+Sell 25789.470693240302 amount of SPY at $414.63
+18698380.170940816
+Sell 12894.735346620151 amount of SPY at $414.635
+18701359.35791282
+Sell 6447.367673310076 amount of SPY at $414.645
+18702913.425075553
+Sell 3223.683836655038 amount of SPY at $414.63
+18703642.10339937
+Sell 1611.841918327519 amount of SPY at $414.76
+18704215.982010663
+Sell 805.9209591637594 amount of SPY at $414.71
+18704462.62526835
+Sell 402.9604795818797 amount of SPY at $414.755
+18704604.080118775
+Sell 201.48023979093986 amount of SPY at $414.815
+18704686.896358375
+Sell 100.74011989546993 amount of SPY at $414.865
+18704733.34148417
+Sell 50.370059947734966 amount of SPY at $414.92499999999995
+18704759.586250663
+Sell 25.185029973867483 amount of SPY at $414.98
+18704774.09381056
+Sell 12.592514986933741 amount of SPY at $415.01
+18704781.725365955
+Sell 6.296257493466871 amount of SPY at $414.905
+18704784.88003662
+Buy 3.1481287467334353 amount of SPY at $414.585
+Buy 4.722193120100153 amount of SPY at $414.62
+Buy 7.083289680150229 amount of SPY at $414.505
+Buy 10.624934520225343 amount of SPY at $414.47
+Buy 15.937401780338014 amount of SPY at $414.40999999999997
+Buy 23.90610267050702 amount of SPY at $414.385
+Buy 35.85915400576053 amount of SPY at $414.33500000000004
+Buy 53.788731008640795 amount of SPY at $414.32
+Buy 80.68309651296119 amount of SPY at $414.33
+Buy 121.02464476944178 amount of SPY at $414.275
+Buy 181.53696715416265 amount of SPY at $414.29999999999995
+Buy 272.305450731244 amount of SPY at $414.17499999999995
+Buy 408.45817609686594 amount of SPY at $414.265
+Buy 612.687264145299 amount of SPY at $414.31
+Buy 919.0308962179485 amount of SPY at $414.21000000000004
+Buy 1378.5463443269227 amount of SPY at $414.01
+Buy 2067.819516490384 amount of SPY at $413.95
+Buy 3101.729274735576 amount of SPY at $414.025
+Buy 4652.593912103364 amount of SPY at $414.05
+Buy 6978.8908681550465 amount of SPY at $414.14
+Sell 10468.33630223257 amount of SPY at $414.315
+18707126.58003718
+Sell 5234.168151116285 amount of SPY at $414.395
+18708716.16348955
+Sell 2617.0840755581426 amount of SPY at $414.44
+18709628.723999135
+Sell 1308.5420377790713 amount of SPY at $414.44500000000005
+18710091.546964116
+Sell 654.2710188895356 amount of SPY at $414.41999999999996
+18710306.601671133
+Sell 327.1355094447678 amount of SPY at $415.875
+18710890.111190885
+Sell 163.5677547223839 amount of SPY at $414.54
+18710963.502998207
+Buy 81.78387736119195 amount of SPY at $414.54
+Buy 122.67581604178793 amount of SPY at $414.38
+Buy 184.0137240626819 amount of SPY at $414.385
+Sell 276.02058609402286 amount of SPY at $414.70500000000004
+18711069.81742747
+Sell 138.01029304701143 amount of SPY at $415.39
+18711217.51169284
+Sell 69.00514652350572 amount of SPY at $415.47
+18711296.879237246
+Sell 34.50257326175286 amount of SPY at $415.315
+18711331.215110593
+Sell 17.25128663087643 amount of SPY at $415.61
+18711353.472176824
+Sell 8.625643315438214 amount of SPY at $415.28499999999997
+18711361.79737586
+Buy 4.312821657719107 amount of SPY at $413.95
+Buy 6.469232486578661 amount of SPY at $413.81
+Buy 9.70384872986799 amount of SPY at $413.555
+Buy 14.555773094801985 amount of SPY at $413.43
+Buy 21.833659642202978 amount of SPY at $413.345
+Buy 32.75048946330447 amount of SPY at $413.16499999999996
+Sell 49.125734194956706 amount of SPY at $413.57000000000005
+18711367.14768603
+Sell 24.562867097478353 amount of SPY at $413.58000000000004
+18711370.068469785
+Sell 12.281433548739177 amount of SPY at $413.59000000000003
+18711371.651676
+Sell 6.140716774369588 amount of SPY at $413.7
+18711373.118757952
+Sell 3.070358387184794 amount of SPY at $413.68
+18711373.79089176
+Sell 1.535179193592397 amount of SPY at $413.575
+18711373.965764847
+Buy 0.7675895967961985 amount of SPY at $413.22
+Buy 1.151384395194298 amount of SPY at $413.16499999999996
+Buy 1.7270765927914469 amount of SPY at $413.065
+Buy 2.5906148891871705 amount of SPY at $413.305
+Buy 3.885922333780756 amount of SPY at $413.16499999999996
+Buy 5.828883500671134 amount of SPY at $413.14
+Buy 8.743325251006702 amount of SPY at $413.255
+Buy 13.114987876510053 amount of SPY at $413.245
+Buy 19.672481814765078 amount of SPY at $413.21000000000004
+Buy 29.508722722147617 amount of SPY at $413.07
+Buy 44.26308408322143 amount of SPY at $413.115
+Buy 66.39462612483214 amount of SPY at $412.99
+Buy 99.59193918724822 amount of SPY at $413.03499999999997
+Buy 149.38790878087232 amount of SPY at $412.855
+Buy 224.0818631713085 amount of SPY at $412.695
+Buy 336.1227947569628 amount of SPY at $412.695
+Buy 504.18419213544416 amount of SPY at $412.55
+Buy 756.2762882031662 amount of SPY at $412.46500000000003
+Buy 1134.4144323047494 amount of SPY at $412.29499999999996
+Sell 1701.6216484571241 amount of SPY at $413.38
+18712820.981312945
+Sell 850.8108242285621 amount of SPY at $413.64750000000004
+18713772.080982476
+Sell 425.40541211428103 amount of SPY at $413.64250000000004
+18714245.50379018
+Buy 212.70270605714052 amount of SPY at $412.44
+Buy 319.0540590857108 amount of SPY at $412.3025
+Buy 478.58108862856614 amount of SPY at $412.125
+Buy 717.8716329428491 amount of SPY at $411.625
+Buy 1076.8074494142738 amount of SPY at $411.515
+Buy 1615.2111741214107 amount of SPY at $411.64
+Sell 2422.8167611821164 amount of SPY at $412.96000000000004
+18717020.25699926
+Sell 1211.4083805910582 amount of SPY at $413.06
+18718528.77444186
+Sell 605.7041902955291 amount of SPY at $413.21000000000004
+18719373.888791706
+Sell 302.85209514776454 amount of SPY at $413.70500000000004
+18719946.357753728
+Sell 151.42604757388227 amount of SPY at $413.805
+18720247.734839495
+Buy 75.71302378694114 amount of SPY at $412.53
+Buy 113.5695356804117 amount of SPY at $412.6225
+Buy 170.35430352061755 amount of SPY at $412.49
+Buy 255.5314552809263 amount of SPY at $412.29650000000004
+Buy 383.29718292138944 amount of SPY at $412.175
+Buy 574.9457743820842 amount of SPY at $412.225
+Buy 862.4186615731263 amount of SPY at $411.95000000000005
+Buy 1293.6279923596894 amount of SPY at $411.6175
+Buy 1940.4419885395341 amount of SPY at $411.3725
+Buy 2910.662982809301 amount of SPY at $411.13
+Buy 4365.994474213951 amount of SPY at $410.95500000000004
+Buy 6548.991711320927 amount of SPY at $410.945
+Buy 9823.48756698139 amount of SPY at $410.91999999999996
+Buy 14735.231350472084 amount of SPY at $411.13495
+Buy 22102.847025708128 amount of SPY at $411.055
+Buy 33154.270538562196 amount of SPY at $411.055
+Buy 49731.40580784329 amount of SPY at $410.865
+Buy 74597.10871176494 amount of SPY at $410.525
+Buy 111895.66306764742 amount of SPY at $410.46500000000003
+Buy 167843.49460147112 amount of SPY at $410.41
+Buy 251765.24190220668 amount of SPY at $410.47
+Buy 377647.86285331 amount of SPY at $410.37
+Buy 566471.794279965 amount of SPY at $410.38750000000005
+Buy 849707.6914199474 amount of SPY at $410.17805
+Buy 1274561.5371299211 amount of SPY at $409.99
+Buy 1911842.3056948818 amount of SPY at $409.82
+Buy 2867763.4585423227 amount of SPY at $409.805
+Buy 4301645.187813484 amount of SPY at $409.95500000000004
+Buy 6452467.781720227 amount of SPY at $409.9
+Buy 9678701.672580339 amount of SPY at $409.94
+Buy 14518052.508870509 amount of SPY at $409.7825
+Buy 21777078.76330576 amount of SPY at $409.61995
+Buy 32665618.14495864 amount of SPY at $409.84254999999996
+Sell 48998427.21743796 amount of SPY at $410.0448
+29901864.35203673
+Sell 24499213.60871898 amount of SPY at $410.02565
+35023512.720027775
+Sell 12249606.80435949 amount of SPY at $410.33500000000004
+41373752.76895254
+Sell 6124803.402179745 amount of SPY at $410.49
+45498217.32075262
+Sell 3062401.7010898725 amount of SPY at $410.4905
+47561980.797503166
+Sell 1531200.8505449363 amount of SPY at $410.57000000000005
+48715593.00349684
+Sell 765600.4252724681 amount of SPY at $410.72950000000003
+49414512.37432462
+Sell 382800.21263623406 amount of SPY at $410.98
+49859863.513003886
+Sell 191400.10631811703 amount of SPY at $410.99585
+50085572.77402866
+Sell 95700.05315905852 amount of SPY at $410.865
+50185905.052585185
+Sell 47850.02657952926 amount of SPY at $411.025
+50243727.19611617
+Buy 23925.01328976463 amount of SPY at $410.2206
+Buy 35887.519934646945 amount of SPY at $409.96595
+Buy 53831.27990197042 amount of SPY at $410.11
+Buy 80746.91985295563 amount of SPY at $410.15
+Buy 121120.37977943345 amount of SPY at $410.03999999999996
+Buy 181680.56966915017 amount of SPY at $410.0
+Sell 272520.85450372525 amount of SPY at $410.96500000000003
+50497630.66293764
+Sell 136260.42725186262 amount of SPY at $411.01
+50630714.1155747
+Sell 68130.21362593131 amount of SPY at $411.12
+50704750.165392086
+Sell 34065.106812965656 amount of SPY at $411.125
+50741938.515834846
+Sell 17032.553406482828 amount of SPY at $411.18345
+50761528.24380283
+Sell 8516.276703241414 amount of SPY at $411.08
+50770442.098961875
+Buy 4258.138351620707 amount of SPY at $410.0725
+Buy 6387.207527431061 amount of SPY at $409.87
+Buy 9580.81129114659 amount of SPY at $410.085
+Sell 14371.216936719886 amount of SPY at $411.125
+50786321.48266962
+Sell 7185.608468359943 amount of SPY at $411.05600000000004
+50793765.367539175
+Sell 3592.8042341799714 amount of SPY at $410.99995
+50797285.93329663
+Sell 1796.4021170899857 amount of SPY at $411.1275
+50799275.34726539
+Sell 898.2010585449929 amount of SPY at $411.31505000000004
+50800438.5118583
+Sell 449.10052927249643 amount of SPY at $411.54
+50801121.11931881
+Sell 224.55026463624822 amount of SPY at $411.58000000000004
+50801471.40505966
+Sell 112.27513231812411 amount of SPY at $411.59000000000003
+50801647.6706814
+Sell 56.137566159062054 amount of SPY at $411.3675
+50801723.3128838
+Sell 28.068783079531027 amount of SPY at $411.34000000000003
+50801760.36209347
+Sell 14.034391539765513 amount of SPY at $411.515
+50801781.34271682
+Sell 7.017195769882757 amount of SPY at $411.63545
+50801792.678249724
+Sell 3.5085978849413784 amount of SPY at $411.56
+50801798.081292465
+Sell 1.7542989424706892 amount of SPY at $411.67044999999996
+50801800.97657616
+Sell 0.8771494712353446 amount of SPY at $411.8625
+50801802.59267456
+Sell 0.4385747356176723 amount of SPY at $412.07500000000005
+50801803.49392089
+Sell 0.21928736780883615 amount of SPY at $412.145
+50801803.95989417
+Sell 0.10964368390441807 amount of SPY at $412.03999999999996
+50801804.181368224
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05482184195220904 amount of SPY at $412.0745
+Buy 0.08223276292831355 amount of SPY at $412.0057
+Buy 0.12334914439247033 amount of SPY at $411.81505
+Buy 0.18502371658870548 amount of SPY at $411.37
+Buy 0.27753557488305824 amount of SPY at $411.06494999999995
+Buy 0.41630336232458737 amount of SPY at $411.095
+Buy 0.6244550434868811 amount of SPY at $411.155
+Sell 0.9366825652303217 amount of SPY at $411.515
+50801804.48499838
+Sell 0.46834128261516084 amount of SPY at $411.4175
+50801804.59115019
+Buy 0.23417064130758042 amount of SPY at $411.21005
+Buy 0.35125596196137066 amount of SPY at $410.92859999999996
+Buy 0.526883942942056 amount of SPY at $410.71000000000004
+Buy 0.790325914413084 amount of SPY at $410.525
+Buy 1.185488871619626 amount of SPY at $410.55
+Buy 1.778233307429439 amount of SPY at $410.54994999999997
+Buy 2.6673499611441587 amount of SPY at $410.65665
+Buy 4.0010249417162385 amount of SPY at $410.74
+Buy 6.001537412574358 amount of SPY at $410.635
+Buy 9.002306118861537 amount of SPY at $410.49490000000003
+Buy 13.503459178292305 amount of SPY at $410.45500000000004
+Sell 20.255188767438458 amount of SPY at $410.95500000000004
+50801812.5804611
+Buy 10.127594383719229 amount of SPY at $410.78
+Sell 15.191391575578844 amount of SPY at $410.91499999999996
+50801816.8536254
+Sell 7.595695787789422 amount of SPY at $411.0425
+50801819.95865877
+Sell 3.797847893894711 amount of SPY at $410.99834999999996
+50801821.343500465
+Sell 1.8989239469473556 amount of SPY at $411.04499999999996
+50801822.124506116
+Sell 0.9494619734736778 amount of SPY at $411.135
+50801822.60046052
+Sell 0.4747309867368389 amount of SPY at $411.165
+50801822.852679655
+Sell 0.23736549336841944 amount of SPY at $411.04
+50801822.94911853
+Sell 0.11868274668420972 amount of SPY at $411.1225
+50801823.0071293
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.05934137334210486 amount of SPY at $411.315
+Buy 0.08901206001315728 amount of SPY at $411.135
+Buy 0.1335180900197359 amount of SPY at $410.88
+Buy 0.20027713502960387 amount of SPY at $410.78499999999997
+Buy 0.3004157025444058 amount of SPY at $410.7675
+Buy 0.4506235538166087 amount of SPY at $410.81
+Buy 0.675935330724913 amount of SPY at $410.845
+Sell 1.0139029960873693 amount of SPY at $411.365
+50801823.5432438
+Sell 0.5069514980436847 amount of SPY at $411.46000000000004
+50801823.85946145
+Sell 0.25347574902184233 amount of SPY at $411.3529
+50801823.990423016
+Sell 0.12673787451092117 amount of SPY at $411.385
+50801824.059972085
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.06336893725546058 amount of SPY at $411.15
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.09505340588319088 amount of SPY at $411.37935
+Buy 0.1425801088247863 amount of SPY at $410.975
+Buy 0.21387016323717944 amount of SPY at $410.67
+Buy 0.32080524485576917 amount of SPY at $410.8359
+Buy 0.4812078672836537 amount of SPY at $410.82635000000005
+Buy 0.7218118009254806 amount of SPY at $410.585
+Buy 1.082717701388221 amount of SPY at $410.24
+Buy 1.6240765520823315 amount of SPY at $410.305
+Buy 2.4361148281234972 amount of SPY at $410.33000000000004
+Buy 3.654172242185246 amount of SPY at $410.08
+Buy 5.481258363277869 amount of SPY at $410.115
+Buy 8.221887544916804 amount of SPY at $409.995
+Sell 12.332831317375206 amount of SPY at $410.58185000000003
+50801829.175316304
+Sell 6.166415658687603 amount of SPY at $410.74
+50801832.70820705
+Sell 3.0832078293438014 amount of SPY at $410.7204
+50801834.41422155
+Sell 1.5416039146719007 amount of SPY at $410.64495
+50801835.15091478
+Sell 0.7708019573359504 amount of SPY at $410.58000000000004
+50801835.46919781
+Sell 0.3854009786679752 amount of SPY at $410.7
+50801835.67458744
+Sell 0.1927004893339876 amount of SPY at $410.71500000000003
+50801835.780172765
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.0963502446669938 amount of SPY at $410.305
+Buy 0.14452536700049068 amount of SPY at $410.145
+Buy 0.21678805050073602 amount of SPY at $409.995
+Buy 0.325182075751104 amount of SPY at $410.335
+Buy 0.48777311362665604 amount of SPY at $410.2
+Sell 0.731659670439984 amount of SPY at $410.8905
+50801836.2877431
+Sell 0.365829835219992 amount of SPY at $410.9684
+50801836.57002641
+Sell 0.182914917609996 amount of SPY at $410.615
+50801836.646525934
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+cannot sell stock at amount less than 0.1
+Buy 0.091457458804998 amount of SPY at $410.655
+Buy 0.137186188207497 amount of SPY at $410.64
+Buy 0.2057792823112455 amount of SPY at $410.73
+Buy 0.30866892346686825 amount of SPY at $410.68
+Sell 0.4630033852003024 amount of SPY at $410.74
+50801836.71724309
+Buy 0.2315016926001512 amount of SPY at $410.74
+Sell 0.3472525389002268 amount of SPY at $410.71
+50801836.742184095
+Buy 0.1736262694501134 amount of SPY at $410.71
+Sell 0.2604394041751701 amount of SPY at $410.66499999999996
+50801836.74293482
+Buy 0.13021970208758504 amount of SPY at $410.66499999999996
+Sell 0.19532955313137756 amount of SPY at $410.65999999999997
+50801836.74233354
+Buy 0.09766477656568878 amount of SPY at $410.65999999999997
+Sell 0.14649716484853317 amount of SPY at $410.78
